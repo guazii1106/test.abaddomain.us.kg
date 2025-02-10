@@ -8,6 +8,7 @@
         body { font-family: Arial, sans-serif; text-align: center; }
         table { width: 80%; margin: 20px auto; border-collapse: collapse; }
         th, td { border: 1px solid black; padding: 10px; }
+        .error { color: red; margin-top: 10px; }
     </style>
 </head>
 <body>
@@ -18,6 +19,7 @@
     <label>KB數: <input type="number" id="kb"></label>
     <label>生產CD: <input type="number" id="cd"></label>
     <button onclick="searchCats()">搜尋貓咪</button>
+    <p id="error_cats" class="error"></p>
     
     <h2>敵人搜尋</h2>
     <label>名稱: <input type="text" id="enemy_name"></label>
@@ -26,20 +28,24 @@
     <label>KB數: <input type="number" id="enemy_kb"></label>
     <label>速度: <input type="number" id="enemy_speed"></label>
     <button onclick="searchEnemies()">搜尋敵人</button>
+    <p id="error_enemies" class="error"></p>
     
     <h2>寶物搜尋</h2>
     <label>名稱: <input type="text" id="treasure_name"></label>
     <button onclick="searchTreasures()">搜尋寶物</button>
+    <p id="error_treasures" class="error"></p>
     
     <h2>Rank 搜尋</h2>
     <label>等級: <input type="number" id="rank_level"></label>
     <button onclick="searchRanks()">搜尋Rank</button>
+    <p id="error_ranks" class="error"></p>
     
     <h2>關卡搜尋</h2>
     <label>名稱: <input type="text" id="stage_name"></label>
     <label>分類: <input type="text" id="stage_category"></label>
     <label>地圖: <input type="text" id="stage_map"></label>
     <button onclick="searchStages()">搜尋關卡</button>
+    <p id="error_stages" class="error"></p>
     
     <table>
         <thead>
@@ -54,18 +60,64 @@
     </table>
 
     <script>
-        async function searchStages() {
-            const name = document.getElementById('stage_name').value;
-            const category = document.getElementById('stage_category').value;
-            const map = document.getElementById('stage_map').value;
+        async function fetchData(file, query, errorElementId) {
+            try {
+                const response = await fetch(`data/${file}.json?${query.join('&')}`);
+                if (!response.ok) {
+                    throw new Error('無法讀取資料');
+                }
+                const data = await response.json();
+                if (data.length === 0) {
+                    document.getElementById(errorElementId).innerText = '查無資料';
+                } else {
+                    document.getElementById(errorElementId).innerText = '';
+                }
+                return data;
+            } catch (error) {
+                document.getElementById(errorElementId).innerText = '發生錯誤，請稍後再試';
+                return [];
+            }
+        }
+
+        async function searchCats() {
             let query = [];
+            ['name', 'hp', 'attack', 'kb', 'cd'].forEach(id => {
+                const value = document.getElementById(id).value;
+                if (value) query.push(`${id}=${value}`);
+            });
+            await fetchData('cats', query, 'error_cats');
+        }
+
+        async function searchEnemies() {
+            let query = [];
+            ['enemy_name', 'enemy_hp', 'enemy_attack', 'enemy_kb', 'enemy_speed'].forEach(id => {
+                const value = document.getElementById(id).value;
+                if (value) query.push(`${id.replace('enemy_', '')}=${value}`);
+            });
+            await fetchData('enemies', query, 'error_enemies');
+        }
+
+        async function searchTreasures() {
+            let query = [];
+            const name = document.getElementById('treasure_name').value;
             if (name) query.push(`name=${name}`);
-            if (category) query.push(`category=${category}`);
-            if (map) query.push(`map=${map}`);
-            
-            const response = await fetch(`data/stage.json?${query.join('&')}`);
-            const data = await response.json();
-            
+            await fetchData('treasure', query, 'error_treasures');
+        }
+
+        async function searchRanks() {
+            let query = [];
+            const level = document.getElementById('rank_level').value;
+            if (level) query.push(`level=${level}`);
+            await fetchData('rank', query, 'error_ranks');
+        }
+
+        async function searchStages() {
+            let query = [];
+            ['stage_name', 'stage_category', 'stage_map'].forEach(id => {
+                const value = document.getElementById(id).value;
+                if (value) query.push(`${id.replace('stage_', '')}=${value}`);
+            });
+            const data = await fetchData('stage', query, 'error_stages');
             const results = document.getElementById('stage_results');
             results.innerHTML = '';
             data.forEach(stage => {
