@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battle Cats 搜尋</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        table { width: 80%; margin: 20px auto; border-collapse: collapse; }
+        th, td { border: 1px solid black; padding: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Battle Cats 搜尋系統</h1>
+    <label>名稱: <input type="text" id="name"></label>
+    <label>血量: <input type="number" id="hp"></label>
+    <label>攻擊力: <input type="number" id="attack"></label>
+    <label>KB數: <input type="number" id="kb"></label>
+    <label>生產CD: <input type="number" id="cd"></label>
+    <button onclick="searchCats()">搜尋貓咪</button>
+    
+    <h2>敵人搜尋</h2>
+    <label>名稱: <input type="text" id="enemy_name"></label>
+    <label>血量: <input type="number" id="enemy_hp"></label>
+    <label>攻擊力: <input type="number" id="enemy_attack"></label>
+    <label>KB數: <input type="number" id="enemy_kb"></label>
+    <label>速度: <input type="number" id="enemy_speed"></label>
+    <button onclick="searchEnemies()">搜尋敵人</button>
+    
+    <h2>寶物搜尋</h2>
+    <label>名稱: <input type="text" id="treasure_name"></label>
+    <button onclick="searchTreasures()">搜尋寶物</button>
+    
+    <h2>Rank 搜尋</h2>
+    <label>等級: <input type="number" id="rank_level"></label>
+    <button onclick="searchRanks()">搜尋Rank</button>
+    
+    <h2>關卡搜尋</h2>
+    <label>名稱: <input type="text" id="stage_name"></label>
+    <label>分類: <input type="text" id="stage_category"></label>
+    <label>地圖: <input type="text" id="stage_map"></label>
+    <button onclick="searchStages()">搜尋關卡</button>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>名稱</th>
+                <th>分類</th>
+                <th>地圖</th>
+            </tr>
+        </thead>
+        <tbody id="stage_results"></tbody>
+    </table>
+
+    <script>
+        async function searchStages() {
+            const name = document.getElementById('stage_name').value;
+            const category = document.getElementById('stage_category').value;
+            const map = document.getElementById('stage_map').value;
+            let query = [];
+            if (name) query.push(`name=${name}`);
+            if (category) query.push(`category=${category}`);
+            if (map) query.push(`map=${map}`);
+            
+            const response = await fetch(`data/stage.json?${query.join('&')}`);
+            const data = await response.json();
+            
+            const results = document.getElementById('stage_results');
+            results.innerHTML = '';
+            data.forEach(stage => {
+                results.innerHTML += `<tr>
+                    <td>${stage.id}</td>
+                    <td>${stage.name}</td>
+                    <td>${stage.category}</td>
+                    <td>${stage.map}</td>
+                </tr>`;
+            });
+        }
+    </script>
+</body>
+</html>
