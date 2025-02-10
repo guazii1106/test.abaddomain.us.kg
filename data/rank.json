@@ -1,0 +1,1746 @@
+{
+"Sheet1":[
+ {
+  "rank": 100,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 200,
+  "message": "獲得5個加速",
+  "reward_id": 0,
+  "reward_count": 5
+ },
+ {
+  "rank": 300,
+  "message": "獲得XP50000",
+  "reward_id": 6,
+  "reward_count": 50000
+ },
+ {
+  "rank": 400,
+  "message": "獲得1個寶物雷達",
+  "reward_id": 1,
+  "reward_count": 1
+ },
+ {
+  "rank": 500,
+  "message": "獲得2張貓咪券",
+  "reward_id": 20,
+  "reward_count": 2
+ },
+ {
+  "rank": 600,
+  "message": "獲得2個洞悉先機",
+  "reward_id": 4,
+  "reward_count": 2
+ },
+ {
+  "rank": 700,
+  "message": "獲得XP100000",
+  "reward_id": 6,
+  "reward_count": 100000
+ },
+ {
+  "rank": 800,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 900,
+  "message": "解放「稀有角色」的等級上限<br>可升至25級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1000,
+  "message": "解放「激稀有角色」的等級上限(狂亂及部分角色除外)<br>最高可升至25級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1050,
+  "message": "獲得3個土豪貓",
+  "reward_id": 2,
+  "reward_count": 3
+ },
+ {
+  "rank": 1100,
+  "message": "解放「超激稀有角色」的等級上限<br>最高可升至25級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1110,
+  "message": "解放「？？稀有角色」的等級上限<br>可升至25級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1150,
+  "message": "獲得2個狙擊手",
+  "reward_id": 5,
+  "reward_count": 2
+ },
+ {
+  "rank": 1200,
+  "message": "解放「稀有角色」的等級上限<br>可升至30級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1250,
+  "message": "獲得2張貓咪轉蛋券",
+  "reward_id": 20,
+  "reward_count": 2
+ },
+ {
+  "rank": 1300,
+  "message": "解放「激稀有角色」的等級上限(狂亂及部分角色除外)<br>最高可升至30級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1350,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 1400,
+  "message": "解放「超激稀有角色」的等級上限<br>最高可升至30級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1410,
+  "message": "解放「？？稀有角色」的等級上限<br>可升至30級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1450,
+  "message": "解放3組新的貓咪聯組"
+ },
+ {
+  "rank": 1500,
+  "message": "解放「基本角色」的附加等級上限<br>最高可附加至＋25"
+ },
+ {
+  "rank": 1550,
+  "message": "獲得1個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 1
+ },
+ {
+  "rank": 1600,
+  "message": "解放「EX角色」的附加等級上限<br>最高可升至30級<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 1650,
+  "message": "獲得3個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 3
+ },
+ {
+  "rank": 1700,
+  "message": "解放「基本角色」的附加等級上限<br>最高可附加至＋30<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 1750,
+  "message": "獲得3個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 3
+ },
+ {
+  "rank": 1800,
+  "message": "解放「稀有角色」的附加等級上限<br>最高可附加至＋20<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 1850,
+  "message": "獲得3個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 3
+ },
+ {
+  "rank": 1900,
+  "message": "解放「稀有角色」的附加等級上限<br>最高可附加至＋30<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 1950,
+  "message": "獲得3個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 3
+ },
+ {
+  "rank": 2000,
+  "message": "解放「激稀有角色」的附加等級上限<br>最高可附加至＋20<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 2050,
+  "message": "獲得3個喵力達C",
+  "reward_id": 57,
+  "reward_count": 3
+ },
+ {
+  "rank": 2100,
+  "message": "解放「超激稀有角色」的附加等級上限<br>最高可附加至＋20<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 2150,
+  "message": "解放3組新的貓咪聯組"
+ },
+ {
+  "rank": 2200,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 2250,
+  "message": "獲得1個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 1
+ },
+ {
+  "rank": 2300,
+  "message": "解放「稀有角色」的附加等級上限<br>最高可附加至＋40<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 2350,
+  "message": "獲得3個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 3
+ },
+ {
+  "rank": 2400,
+  "message": "解放「激稀有角色」的附加等級上限<br>最高可附加至＋30<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 2450,
+  "message": "獲得3個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 3
+ },
+ {
+  "rank": 2500,
+  "message": "解放「超激稀有角色」的附加等級上限<br>最高可附加至＋30<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 2550,
+  "message": "獲得3個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 3
+ },
+ {
+  "rank": 2600,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 2650,
+  "message": "獲得3個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 3
+ },
+ {
+  "rank": 2700,
+  "message": "解放3組新的貓咪聯組"
+ },
+ {
+  "rank": 2750,
+  "message": "獲得5個狙擊手",
+  "reward_id": 5,
+  "reward_count": 5
+ },
+ {
+  "rank": 2800,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 2850,
+  "message": "獲得3個喵力達C",
+  "reward_id": 57,
+  "reward_count": 3
+ },
+ {
+  "rank": 2900,
+  "message": "解放「基本角色」的附加等級上限<br>最高可附加至＋35<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 2950,
+  "message": "獲得3張貓咪轉蛋券",
+  "reward_id": 20,
+  "reward_count": 3
+ },
+ {
+  "rank": 3000,
+  "message": "解放「基本角色」的附加等級上限<br>最高可附加至＋40<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 3050,
+  "message": "獲得1個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 1
+ },
+ {
+  "rank": 3100,
+  "message": "解放「稀有角色」的附加等級上限<br>最高可附加至＋50<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 3150,
+  "message": "獲得3個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 3
+ },
+ {
+  "rank": 3200,
+  "message": "解放「激稀有角色」的附加等級上限<br>最高可附加至＋40<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 3250,
+  "message": "獲得3個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 3
+ },
+ {
+  "rank": 3300,
+  "message": "解放「超激稀有角色」的附加等級上限<br>最高可附加至＋40<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 3350,
+  "message": "獲得3個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 3
+ },
+ {
+  "rank": 3400,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 3450,
+  "message": "獲得3個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 3
+ },
+ {
+  "rank": 3500,
+  "message": "解放「基本角色」的附加等級上限<br>最高可附加至＋45<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 3550,
+  "message": "解放「基本角色」的附加等級上限<br>最高可附加至＋50<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 3600,
+  "message": "解放「激稀有」的「狂亂角色」等級上限<br>※可升至25級※<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 3650,
+  "message": "解放「激稀有」的「狂亂角色」等級上限<br>※可升至30級※<br><span class=\"fs76\">※以XP升級※<\/span>"
+ },
+ {
+  "rank": 3700,
+  "message": "獲得3個寶物雷達",
+  "reward_id": 1,
+  "reward_count": 3
+ },
+ {
+  "rank": 3750,
+  "message": "獲得3個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 3
+ },
+ {
+  "rank": 3800,
+  "message": "獲得3個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 3
+ },
+ {
+  "rank": 3850,
+  "message": "獲得3個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 3
+ },
+ {
+  "rank": 3900,
+  "message": "獲得3個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 3
+ },
+ {
+  "rank": 3950,
+  "message": "獲得3個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 3
+ },
+ {
+  "rank": 4000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 4050,
+  "message": "解放「稀有角色」的附加等級上限<br>※可附加至＋60※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4100,
+  "message": "解放「激稀有角色」的附加等級上限<br>※可附加至＋50※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4150,
+  "message": "解放「超激稀有角色」的附加等級上限<br>※可附加至＋50※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4200,
+  "message": "解放「基本角色」的附加等級上限<br>※可附加至＋55※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4250,
+  "message": "解放「基本角色」的附加等級上限<br>※可附加至＋60※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4300,
+  "message": "獲得3個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 3
+ },
+ {
+  "rank": 4350,
+  "message": "獲得3個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 3
+ },
+ {
+  "rank": 4400,
+  "message": "獲得3個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 3
+ },
+ {
+  "rank": 4450,
+  "message": "獲得3個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 3
+ },
+ {
+  "rank": 4500,
+  "message": "獲得3個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 3
+ },
+ {
+  "rank": 4550,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 4600,
+  "message": "解放「稀有角色」的附加等級上限<br>※可附加至＋70※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4650,
+  "message": "解放「激稀有角色」的附加等級上限<br>※可附加至＋60※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4700,
+  "message": "解放「超激稀有角色」的附加等級上限<br>※可附加至＋60※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 4750,
+  "message": "獲得5個綠色貓薄荷",
+  "reward_id": 38,
+  "reward_count": 5
+ },
+ {
+  "rank": 4800,
+  "message": "獲得5個紫色貓薄荷",
+  "reward_id": 35,
+  "reward_count": 5
+ },
+ {
+  "rank": 4850,
+  "message": "獲得5個紅色貓薄荷",
+  "reward_id": 36,
+  "reward_count": 5
+ },
+ {
+  "rank": 4900,
+  "message": "獲得5個藍色貓薄荷",
+  "reward_id": 37,
+  "reward_count": 5
+ },
+ {
+  "rank": 4950,
+  "message": "獲得5個黃色貓薄荷",
+  "reward_id": 39,
+  "reward_count": 5
+ },
+ {
+  "rank": 5000,
+  "message": "獲得5個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 5
+ },
+ {
+  "rank": 5050,
+  "message": "解放「基本角色」的附加等級上限<br>※可附加至＋65※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 5100,
+  "message": "解放「基本角色」的附加等級上限<br>※可附加至＋70※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 5150,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 5200,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 5250,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 5300,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 5350,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 5400,
+  "message": "獲得3個寶物雷達",
+  "reward_id": 1,
+  "reward_count": 3
+ },
+ {
+  "rank": 5450,
+  "message": "獲得5個綠色貓薄荷",
+  "reward_id": 38,
+  "reward_count": 5
+ },
+ {
+  "rank": 5500,
+  "message": "獲得5個紫色貓薄荷",
+  "reward_id": 35,
+  "reward_count": 5
+ },
+ {
+  "rank": 5550,
+  "message": "獲得5個紅色貓薄荷",
+  "reward_id": 36,
+  "reward_count": 5
+ },
+ {
+  "rank": 5600,
+  "message": "獲得5個藍色貓薄荷",
+  "reward_id": 37,
+  "reward_count": 5
+ },
+ {
+  "rank": 5650,
+  "message": "獲得5個黃色貓薄荷",
+  "reward_id": 39,
+  "reward_count": 5
+ },
+ {
+  "rank": 5700,
+  "message": "獲得5個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 5
+ },
+ {
+  "rank": 5750,
+  "message": "解放「基本角色」的附加等級上限<br>※可附加至＋75※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 5800,
+  "message": "解放「基本角色」的附加等級上限<br>※可附加至＋80※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 5850,
+  "message": "解放「稀有角色」的附加等級上限<br>※可附加至＋80※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 5900,
+  "message": "解放「激稀有角色」的附加等級上限<br>※可附加至＋70※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 5950,
+  "message": "解放「超激稀有角色」的附加等級上限<br>※可附加至＋70※<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 6000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 6100,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 6200,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 6300,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 6400,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 6500,
+  "message": "獲得5個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 5
+ },
+ {
+  "rank": 6600,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 6700,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 6800,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 6900,
+  "message": "獲得5個綠色貓薄荷",
+  "reward_id": 38,
+  "reward_count": 5
+ },
+ {
+  "rank": 7000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 7100,
+  "message": "獲得5個紫色貓薄荷",
+  "reward_id": 35,
+  "reward_count": 5
+ },
+ {
+  "rank": 7200,
+  "message": "獲得5個紅色貓薄荷",
+  "reward_id": 36,
+  "reward_count": 5
+ },
+ {
+  "rank": 7300,
+  "message": "獲得5個藍色貓薄荷",
+  "reward_id": 37,
+  "reward_count": 5
+ },
+ {
+  "rank": 7400,
+  "message": "獲得5個黃色貓薄荷",
+  "reward_id": 39,
+  "reward_count": 5
+ },
+ {
+  "rank": 7500,
+  "message": "獲得5個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 5
+ },
+ {
+  "rank": 7600,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 7700,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 7777,
+  "message": "獲得7張稀有券",
+  "reward_id": 21,
+  "reward_count": 7
+ },
+ {
+  "rank": 7800,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 7900,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 8000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 8100,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 8200,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 8300,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 8400,
+  "message": "獲得5個綠色貓薄荷",
+  "reward_id": 38,
+  "reward_count": 5
+ },
+ {
+  "rank": 8500,
+  "message": "獲得5個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 5
+ },
+ {
+  "rank": 8600,
+  "message": "獲得5個紫色貓薄荷",
+  "reward_id": 35,
+  "reward_count": 5
+ },
+ {
+  "rank": 8700,
+  "message": "獲得5個紅色貓薄荷",
+  "reward_id": 36,
+  "reward_count": 5
+ },
+ {
+  "rank": 8800,
+  "message": "獲得5個藍色貓薄荷",
+  "reward_id": 37,
+  "reward_count": 5
+ },
+ {
+  "rank": 8900,
+  "message": "獲得5個黃色貓薄荷",
+  "reward_id": 39,
+  "reward_count": 5
+ },
+ {
+  "rank": 9000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 9100,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 9200,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 9300,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 9400,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 9500,
+  "message": "獲得5個彩虹貓薄荷",
+  "reward_id": 40,
+  "reward_count": 5
+ },
+ {
+  "rank": 9600,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 9700,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 9800,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 9900,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 9999,
+  "message": "解放「基本角色」的附加等級上限<br>最高可附加至＋90<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 10000,
+  "message": "獲得1張白金券",
+  "reward_id": 29,
+  "reward_count": 1
+ },
+ {
+  "rank": 10001,
+  "message": "解放「基本角色（貓咪超人）」的附加等級上限<br>最高可附加至＋30<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 10100,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 10200,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 10300,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 10400,
+  "message": "獲得5個綠色貓薄荷",
+  "reward_id": 38,
+  "reward_count": 5
+ },
+ {
+  "rank": 10500,
+  "message": "獲得1個古代貓薄荷",
+  "reward_id": 42,
+  "reward_count": 1
+ },
+ {
+  "rank": 10600,
+  "message": "獲得5個紫色貓薄荷",
+  "reward_id": 35,
+  "reward_count": 5
+ },
+ {
+  "rank": 10700,
+  "message": "獲得5個紅色貓薄荷",
+  "reward_id": 36,
+  "reward_count": 5
+ },
+ {
+  "rank": 10800,
+  "message": "獲得5個藍色貓薄荷",
+  "reward_id": 37,
+  "reward_count": 5
+ },
+ {
+  "rank": 10900,
+  "message": "獲得5個黃色貓薄荷",
+  "reward_id": 39,
+  "reward_count": 5
+ },
+ {
+  "rank": 11000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 11001,
+  "message": "解放「基本角色（貓咪超人）」的附加等級上限<br>最高可附加至＋40<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 11100,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 11200,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 11300,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 11400,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 11500,
+  "message": "獲得1個古代貓薄荷",
+  "reward_id": 42,
+  "reward_count": 1
+ },
+ {
+  "rank": 11600,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 11700,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 11800,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 11900,
+  "message": "獲得5個綠色貓薄荷",
+  "reward_id": 38,
+  "reward_count": 5
+ },
+ {
+  "rank": 12000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 12001,
+  "message": "解放「基本角色（貓咪超人）」的附加等級上限<br>最高可附加至＋50<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 12100,
+  "message": "獲得5個紫色貓薄荷",
+  "reward_id": 35,
+  "reward_count": 5
+ },
+ {
+  "rank": 12200,
+  "message": "獲得5個紅色貓薄荷",
+  "reward_id": 36,
+  "reward_count": 5
+ },
+ {
+  "rank": 12300,
+  "message": "獲得5個藍色貓薄荷",
+  "reward_id": 37,
+  "reward_count": 5
+ },
+ {
+  "rank": 12400,
+  "message": "獲得5個黃色貓薄荷",
+  "reward_id": 39,
+  "reward_count": 5
+ },
+ {
+  "rank": 12500,
+  "message": "獲得1個古代貓薄荷",
+  "reward_id": 42,
+  "reward_count": 1
+ },
+ {
+  "rank": 12600,
+  "message": "獲得10個紅磚",
+  "reward_id": 85,
+  "reward_count": 10
+ },
+ {
+  "rank": 12700,
+  "message": "獲得10個羽毛",
+  "reward_id": 86,
+  "reward_count": 10
+ },
+ {
+  "rank": 12800,
+  "message": "獲得10個備長炭",
+  "reward_id": 87,
+  "reward_count": 10
+ },
+ {
+  "rank": 12900,
+  "message": "獲得10個鋼製齒輪",
+  "reward_id": 88,
+  "reward_count": 10
+ },
+ {
+  "rank": 13000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 13001,
+  "message": "解放「基本角色（貓咪超人）」的附加等級上限<br>最高可附加至＋60<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 13100,
+  "message": "獲得10個黃金",
+  "reward_id": 89,
+  "reward_count": 10
+ },
+ {
+  "rank": 13200,
+  "message": "獲得10個宇宙石",
+  "reward_id": 90,
+  "reward_count": 10
+ },
+ {
+  "rank": 13300,
+  "message": "獲得10個神祕骨頭",
+  "reward_id": 91,
+  "reward_count": 10
+ },
+ {
+  "rank": 13400,
+  "message": "獲得10個菊石",
+  "reward_id": 140,
+  "reward_count": 10
+ },
+ {
+  "rank": 13500,
+  "message": "獲得2個古代貓薄荷",
+  "reward_id": 42,
+  "reward_count": 2
+ },
+ {
+  "rank": 13600,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 13700,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 13800,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 13900,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 14000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 14001,
+  "message": "解放「基本角色（貓咪超人）」的附加等級上限<br>最高可附加至＋70<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 14100,
+  "message": "獲得20個紅磚",
+  "reward_id": 85,
+  "reward_count": 20
+ },
+ {
+  "rank": 14200,
+  "message": "獲得20個羽毛",
+  "reward_id": 86,
+  "reward_count": 20
+ },
+ {
+  "rank": 14300,
+  "message": "獲得20個備長炭",
+  "reward_id": 87,
+  "reward_count": 20
+ },
+ {
+  "rank": 14400,
+  "message": "獲得20個鋼製齒輪",
+  "reward_id": 88,
+  "reward_count": 20
+ },
+ {
+  "rank": 14500,
+  "message": "獲得2個古代貓薄荷",
+  "reward_id": 42,
+  "reward_count": 2
+ },
+ {
+  "rank": 14600,
+  "message": "獲得20個黃金",
+  "reward_id": 89,
+  "reward_count": 20
+ },
+ {
+  "rank": 14700,
+  "message": "獲得20個宇宙石",
+  "reward_id": 90,
+  "reward_count": 20
+ },
+ {
+  "rank": 14800,
+  "message": "獲得20個神祕骨頭",
+  "reward_id": 91,
+  "reward_count": 20
+ },
+ {
+  "rank": 14900,
+  "message": "獲得20個菊石",
+  "reward_id": 140,
+  "reward_count": 20
+ },
+ {
+  "rank": 15000,
+  "message": "獲得1張白金券",
+  "reward_id": 29,
+  "reward_count": 1
+ },
+ {
+  "rank": 15001,
+  "message": "解放「基本角色（貓咪超人）」的附加等級上限<br>最高可附加至＋80<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 15100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 15200,
+  "message": "獲得50個貓罐頭",
+  "reward_id": 22,
+  "reward_count": 50
+ },
+ {
+  "rank": 15300,
+  "message": "獲得1個首領旗",
+  "reward_id": 105,
+  "reward_count": 1
+ },
+ {
+  "rank": 15400,
+  "message": "獲得3個貓眼石【傳說】",
+  "reward_id": 54,
+  "reward_count": 3
+ },
+ {
+  "rank": 15500,
+  "message": "獲得2個古代貓薄荷",
+  "reward_id": 42,
+  "reward_count": 2
+ },
+ {
+  "rank": 15600,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 15700,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 15800,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 15900,
+  "message": "獲得50個貓罐頭",
+  "reward_id": 22,
+  "reward_count": 50
+ },
+ {
+  "rank": 16000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 16001,
+  "message": "解放「基本角色（貓咪超人）」的附加等級上限<br>最高可附加至＋90<br><span class=\"fs76\">※以轉蛋升級※<\/span>"
+ },
+ {
+  "rank": 16100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 16200,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 16300,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 16400,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 16500,
+  "message": "獲得3個貓眼石【傳說】",
+  "reward_id": 54,
+  "reward_count": 3
+ },
+ {
+  "rank": 16600,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 16700,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 16800,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 16900,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 17000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 17100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 17200,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 17300,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 17400,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 17500,
+  "message": "獲得5個貓眼石【傳說】",
+  "reward_id": 54,
+  "reward_count": 5
+ },
+ {
+  "rank": 17600,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 17700,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 17800,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 17900,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 18000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 18100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 18200,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 18300,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 18400,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 18500,
+  "message": "獲得5個貓眼石【傳說】",
+  "reward_id": 54,
+  "reward_count": 5
+ },
+ {
+  "rank": 18600,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 18700,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 18800,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 18900,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 19000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 19100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 19200,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 19300,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 19400,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 19500,
+  "message": "獲得5個貓眼石【傳說】",
+  "reward_id": 54,
+  "reward_count": 5
+ },
+ {
+  "rank": 19600,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 19700,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 19800,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 19900,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 20000,
+  "message": "獲得1張白金券",
+  "reward_id": 29,
+  "reward_count": 1
+ },
+ {
+  "rank": 20001,
+  "message": "獲得3個貓眼石【闇】",
+  "reward_id": 58,
+  "reward_count": 3
+ },
+ {
+  "rank": 20100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 20200,
+  "message": "獲得3個紅磚Z",
+  "reward_id": 187,
+  "reward_count": 3
+ },
+ {
+  "rank": 20300,
+  "message": "獲得3個羽毛Z",
+  "reward_id": 188,
+  "reward_count": 3
+ },
+ {
+  "rank": 20400,
+  "message": "獲得3個備長炭Z",
+  "reward_id": 189,
+  "reward_count": 3
+ },
+ {
+  "rank": 20500,
+  "message": "獲得3個鋼製齒輪Z",
+  "reward_id": 190,
+  "reward_count": 3
+ },
+ {
+  "rank": 20600,
+  "message": "獲得3個黃金Z",
+  "reward_id": 191,
+  "reward_count": 3
+ },
+ {
+  "rank": 20700,
+  "message": "獲得3個宇宙石Z",
+  "reward_id": 192,
+  "reward_count": 3
+ },
+ {
+  "rank": 20800,
+  "message": "獲得3個神秘骨頭Z",
+  "reward_id": 193,
+  "reward_count": 3
+ },
+ {
+  "rank": 20900,
+  "message": "獲得3個菊石Z",
+  "reward_id": 194,
+  "reward_count": 3
+ },
+ {
+  "rank": 21000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 21100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 21200,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 21300,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 21400,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 21500,
+  "message": "獲得10個貓型電腦",
+  "reward_id": 3,
+  "reward_count": 10
+ },
+ {
+  "rank": 21600,
+  "message": "獲得3個紅磚Z",
+  "reward_id": 187,
+  "reward_count": 3
+ },
+ {
+  "rank": 21700,
+  "message": "獲得3個羽毛Z",
+  "reward_id": 188,
+  "reward_count": 3
+ },
+ {
+  "rank": 21800,
+  "message": "獲得3個備長炭Z",
+  "reward_id": 189,
+  "reward_count": 3
+ },
+ {
+  "rank": 21900,
+  "message": "獲得3個鋼製齒輪Z",
+  "reward_id": 190,
+  "reward_count": 3
+ },
+ {
+  "rank": 22000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 22100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 22200,
+  "message": "獲得3個黃金Z",
+  "reward_id": 191,
+  "reward_count": 3
+ },
+ {
+  "rank": 22300,
+  "message": "獲得3個宇宙石Z",
+  "reward_id": 192,
+  "reward_count": 3
+ },
+ {
+  "rank": 22400,
+  "message": "獲得3個神秘骨頭Z",
+  "reward_id": 193,
+  "reward_count": 3
+ },
+ {
+  "rank": 22500,
+  "message": "獲得3個菊石Z",
+  "reward_id": 194,
+  "reward_count": 3
+ },
+ {
+  "rank": 22600,
+  "message": "獲得5個喵力達A",
+  "reward_id": 55,
+  "reward_count": 5
+ },
+ {
+  "rank": 22700,
+  "message": "獲得5個喵力達B",
+  "reward_id": 56,
+  "reward_count": 5
+ },
+ {
+  "rank": 22800,
+  "message": "獲得5個喵力達C",
+  "reward_id": 57,
+  "reward_count": 5
+ },
+ {
+  "rank": 22900,
+  "message": "獲得10個貓型電腦",
+  "reward_id": 3,
+  "reward_count": 10
+ },
+ {
+  "rank": 23000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 23100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 23200,
+  "message": "獲得5個貓眼石【傳說】",
+  "reward_id": 54,
+  "reward_count": 5
+ },
+ {
+  "rank": 23300,
+  "message": "獲得5個貓眼石【EX】",
+  "reward_id": 50,
+  "reward_count": 5
+ },
+ {
+  "rank": 23400,
+  "message": "獲得5個貓眼石【稀有】",
+  "reward_id": 51,
+  "reward_count": 5
+ },
+ {
+  "rank": 23500,
+  "message": "獲得5個貓眼石【激稀有】",
+  "reward_id": 52,
+  "reward_count": 5
+ },
+ {
+  "rank": 23600,
+  "message": "獲得5個貓眼石【超激稀有】",
+  "reward_id": 53,
+  "reward_count": 5
+ },
+ {
+  "rank": 23700,
+  "message": "獲得3個紅磚Z",
+  "reward_id": 187,
+  "reward_count": 3
+ },
+ {
+  "rank": 23800,
+  "message": "獲得3個羽毛Z",
+  "reward_id": 188,
+  "reward_count": 3
+ },
+ {
+  "rank": 23900,
+  "message": "獲得3個備長炭Z",
+  "reward_id": 189,
+  "reward_count": 3
+ },
+ {
+  "rank": 24000,
+  "message": "獲得1張稀有券",
+  "reward_id": 21,
+  "reward_count": 1
+ },
+ {
+  "rank": 24100,
+  "message": "獲得1個白金券碎片",
+  "reward_id": 157,
+  "reward_count": 1
+ },
+ {
+  "rank": 24200,
+  "message": "獲得3個鋼製齒輪Z",
+  "reward_id": 190,
+  "reward_count": 3
+ },
+ {
+  "rank": 24300,
+  "message": "黄金Z、3個を獲得",
+  "reward_id": 191,
+  "reward_count": 3
+ },
+ {
+  "rank": 24400,
+  "message": "宇宙石Z、3個を獲得",
+  "reward_id": 192,
+  "reward_count": 3
+ },
+ {
+  "rank": 24500,
+  "message": "謎の骨Z、3個を獲得",
+  "reward_id": 193,
+  "reward_count": 3
+ },
+ {
+  "rank": 25000,
+  "message": "獲得1張傳說券",
+  "reward_id": 145,
+  "reward_count": 1
+ }
+]
+}

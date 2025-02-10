@@ -1,0 +1,7521 @@
+{
+"Sheet1":[
+ {
+  "id": 0,
+  "name_tw": "傳說的開始",
+  "name_jp": "伝説のはじまり",
+  "stars": 100150200300,
+  "materialdrop": "1o,d,0,d,d,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 1,
+  "name_tw": "熱情的國家",
+  "name_jp": "情熱の国",
+  "stars": 100150200300,
+  "materialdrop": "1o,f,5,a,a,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 2,
+  "name_tw": "葡萄糖胺沙漠",
+  "name_jp": "グルコサミン砂漠",
+  "stars": 100150200300,
+  "materialdrop": "1o,r,0,9,4,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 3,
+  "name_tw": "貓咪們渡海",
+  "name_jp": "猫ども海を渡る",
+  "stars": 100150200300,
+  "materialdrop": "1o,r,0,a,3,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 4,
+  "name_tw": "凝視著貓眼石",
+  "name_jp": "見つめてキャッツアイ",
+  "stars": 100150200300,
+  "materialdrop": "1o,g,g,8,0,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 5,
+  "name_tw": "西方街道",
+  "name_jp": "ウエスタン街道",
+  "stars": 100150200300,
+  "materialdrop": "1o,p,7,4,4,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 6,
+  "name_tw": "鮪魚海域",
+  "name_jp": "マグロ海域",
+  "stars": 100150200300,
+  "materialdrop": "1o,k,3,a,7,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 7,
+  "name_tw": "竹子島",
+  "name_jp": "バンブー島",
+  "stars": 100150200300,
+  "materialdrop": "1o,k,0,f,5,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 8,
+  "name_tw": "黏糊糊的鐘乳洞",
+  "name_jp": "ぷにぷに鍾乳洞",
+  "stars": 100150200300,
+  "materialdrop": "1o,8,a,k,3,0,0,0,0",
+  "multiplier": "0.75,1,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 9,
+  "name_tw": "瓦魯肯諾火山",
+  "name_jp": "ボルケーノ火山",
+  "stars": 100150200300,
+  "materialdrop": "1m,q,b,4,0,2,0,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "a",
+  "name_tw": "千里之道",
+  "name_jp": "千里の道",
+  "stars": 100150200300,
+  "materialdrop": "1m,f,5,a,a,0,2,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "b",
+  "name_tw": "鹹魚要塞",
+  "name_jp": "アオ・ザ・カナ",
+  "stars": 100150200300,
+  "materialdrop": "1m,r,0,9,4,0,0,2,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "c",
+  "name_tw": "軍艦島",
+  "name_jp": "軍艦島",
+  "stars": 100150200300,
+  "materialdrop": "1l,p,0,d,3,2,0,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "d",
+  "name_tw": "貓咪磨爪的走廊",
+  "name_jp": "つめとぎの廊下",
+  "stars": 100150200300,
+  "materialdrop": "1l,k,a,a,0,0,2,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "e",
+  "name_tw": "帕德嫩神殿",
+  "name_jp": "パルテノン神殿",
+  "stars": 100150200200,
+  "materialdrop": "1l,e,9,e,5,0,0,2,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "f",
+  "name_tw": "退潮的海水浴場",
+  "name_jp": "ずんどこ海水浴場",
+  "stars": 100150200200,
+  "materialdrop": "1l,d,8,j,0,3,0,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "g",
+  "name_tw": "惡魔島",
+  "name_jp": "アルカトラズ島",
+  "stars": 100150200200,
+  "materialdrop": "1l,d,d,d,0,0,3,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "h",
+  "name_tw": "越獄隧道",
+  "name_jp": "脱獄トンネル",
+  "stars": 100150170150,
+  "materialdrop": "1k,b,b,h,3,0,0,3,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "i",
+  "name_tw": "卡彭監獄",
+  "name_jp": "カポネの監獄",
+  "stars": 100150170140,
+  "materialdrop": "1k,2,2,o,5,a,1,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "j",
+  "name_tw": "絲綢之路",
+  "name_jp": "シルクロード",
+  "stars": 100140160140,
+  "materialdrop": "1j,a,a,8,4,a,0,1,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "k",
+  "name_tw": "通向黑暗的地下道",
+  "name_jp": "闇へと続く地下道",
+  "stars": 100130150130,
+  "materialdrop": "1j,f,c,8,1,7,1,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "l",
+  "name_tw": "魔王的豪宅",
+  "name_jp": "魔王の豪邸",
+  "stars": 100120140130,
+  "materialdrop": "1j,a,a,f,5,5,0,1,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "m",
+  "name_tw": "終焉宣告之夜",
+  "name_jp": "終わりを告げる夜",
+  "stars": 100120140120,
+  "materialdrop": "1j,6,a,d,4,b,1,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "n",
+  "name_tw": "大混戰",
+  "name_jp": "バトルロワイアル",
+  "stars": 100120140120,
+  "materialdrop": "1j,f,4,8,4,d,0,1,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "o",
+  "name_tw": "戰爭的傷痕",
+  "name_jp": "戦争のつめあと",
+  "stars": 100120140110,
+  "materialdrop": "1i,9,c,7,2,5,c,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "p",
+  "name_tw": "污染海洋的壞人",
+  "name_jp": "海を汚す悪しき者",
+  "stars": 100120140110,
+  "materialdrop": "1i,c,7,4,4,b,9,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "q",
+  "name_tw": "連接心身的東西",
+  "name_jp": "心と体、繋ぐもの",
+  "stars": 100120140100,
+  "materialdrop": "1h,e,9,7,0,0,h,1,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "r",
+  "name_tw": "脆弱性和弱酸性",
+  "name_jp": "脆弱性と弱酸性",
+  "stars": 100120140100,
+  "materialdrop": "1h,5,h,a,2,6,6,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "s",
+  "name_tw": "被引導的貓咪們",
+  "name_jp": "導かれしネコ達",
+  "stars": 100120140100,
+  "materialdrop": "1g,7,f,9,2,4,b,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "t",
+  "name_tw": "黑暗的國際城市",
+  "name_jp": "暗黒コスモポリス",
+  "stars": 100120140100,
+  "materialdrop": "1g,9,e,7,0,d,4,1,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "u",
+  "name_tw": "加拉・巴・哥",
+  "name_jp": "ガラ・パ・ゴス",
+  "stars": 100120140100,
+  "materialdrop": "1f,a,6,i,4,4,8,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "v",
+  "name_tw": "岩海苔半島",
+  "name_jp": "岩海苔半島",
+  "stars": 100120140100,
+  "materialdrop": "1f,8,j,8,3,5,5,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "w",
+  "name_tw": "惡羅斯聯邦",
+  "name_jp": "恐ろし連邦",
+  "stars": 100120140100,
+  "materialdrop": "1e,c,c,c,0,8,8,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "x",
+  "name_tw": "亡者聚集之地",
+  "name_jp": "亡者の住まう地",
+  "stars": 100120140100,
+  "materialdrop": "1e,6,6,6,0,4,0,r,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "y",
+  "name_tw": "孤島大瘟疫",
+  "name_jp": "絶島パンデミック",
+  "stars": 100120140100,
+  "materialdrop": "1d,9,5,5,e,0,0,j,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "z",
+  "name_tw": "迪死你樂園",
+  "name_jp": "ふくろのねずみランド",
+  "stars": 100120130100,
+  "materialdrop": "1d,4,4,7,0,4,4,r,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 10,
+  "name_tw": "豪來塢帝國",
+  "name_jp": "ハリーウッド帝国",
+  "stars": 100120130100,
+  "materialdrop": "1d,5,3,5,3,3,0,w,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 11,
+  "name_tw": "小跟班海岸",
+  "name_jp": "こしぎんちゃくの浜辺",
+  "stars": 100120130100,
+  "materialdrop": "1c,f,6,6,0,3,i,3,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 12,
+  "name_tw": "雲泥溫泉鄉",
+  "name_jp": "雲泥温泉郷",
+  "stars": 100120130100,
+  "materialdrop": "1c,h,0,f,c,5,2,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 13,
+  "name_tw": "濃濃春色島",
+  "name_jp": "風待ちアイランド",
+  "stars": 100120130100,
+  "materialdrop": "1c,a,k,3,0,7,7,7,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 14,
+  "name_tw": "IT地下墓穴",
+  "name_jp": "ITカタコンベ",
+  "stars": 100120130100,
+  "materialdrop": "1b,a,a,d,0,d,0,7,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 15,
+  "name_tw": "怪展會之畫",
+  "name_jp": "変覧会の絵",
+  "stars": 100120130100,
+  "materialdrop": "1b,c,9,6,6,f,3,3,0",
+  "multiplier": "0.5,0.75,1,1",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 16,
+  "name_tw": "22區",
+  "name_jp": "エリア２２",
+  "stars": 100120130100,
+  "materialdrop": "1b,0,7,0,3,3,x,7,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 17,
+  "name_tw": "超越大草原",
+  "name_jp": "超越サバンナ",
+  "stars": 100120130100,
+  "materialdrop": "1a,0,0,5,0,e,w,3,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 18,
+  "name_tw": "暴風雪車道",
+  "name_jp": "ブリザード自動車道",
+  "stars": 100120130100,
+  "materialdrop": "1a,8,8,8,0,8,c,c,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 19,
+  "name_tw": "奇點村",
+  "name_jp": "シンギュラリティ村",
+  "stars": 100120130100,
+  "materialdrop": "1a,i,3,a,5,8,a,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1a",
+  "name_tw": "最終大陸",
+  "name_jp": "オワーリ大陸",
+  "stars": 100120130100,
+  "materialdrop": "19,9,e,e,e,5,0,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1b",
+  "name_tw": "傳說的終點",
+  "name_jp": "伝説のおわり",
+  "stars": 100120130100,
+  "materialdrop": "19,9,2,9,4,d,8,9,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1c",
+  "name_tw": "古代研究所",
+  "name_jp": "古代研究所",
+  "stars": 100120130100,
+  "materialdrop": "19,b,m,b,0,b,0,0,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "rs",
+  "name_tw": "星期一關卡",
+  "name_jp": "月曜ステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "rt",
+  "name_tw": "星期二關卡",
+  "name_jp": "火曜ステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "ru",
+  "name_tw": "星期三關卡",
+  "name_jp": "水曜ステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "rv",
+  "name_tw": "星期四關卡",
+  "name_jp": "木曜ステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "rw",
+  "name_tw": "星期五關卡",
+  "name_jp": "金曜ステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "rx",
+  "name_tw": "週末關卡",
+  "name_jp": "土日ステージ(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "ry",
+  "name_tw": "貓咪券★機會！",
+  "name_jp": "にゃんチケ★チャンス！",
+  "resetmode": -1
+ },
+ {
+  "id": "rz",
+  "name_tw": "逆襲的河馬將",
+  "name_jp": "逆襲のカバちゃん",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "s0",
+  "name_tw": "秋天運動會！",
+  "name_jp": "秋だよ運動会！(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "s1",
+  "name_tw": "勞動感謝特別活動！",
+  "name_jp": "勤労感謝スペシャル！",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "s2",
+  "name_tw": "聖誕節居然來了！",
+  "name_jp": "なんとクリスマスが来た！",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "s3",
+  "name_tw": "新年快樂？",
+  "name_jp": "新年、あけました！おめっ...",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "s4",
+  "name_tw": "被召喚的福！",
+  "name_jp": "召喚された福！",
+  "stars": 100150200250,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "s5",
+  "name_tw": "人偶架上的戰士們",
+  "name_jp": "雛壇の戦士達",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "s6",
+  "name_tw": "紅色突變",
+  "name_jp": "紅のカタストロフ",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "s7",
+  "name_tw": "黑暗天堂",
+  "name_jp": "ダークネスヘブン",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "s8",
+  "name_tw": "國士無雙",
+  "name_jp": "国士無双",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "s9",
+  "name_tw": "狂亂貓咪降臨",
+  "name_jp": "狂乱のネコ降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sa",
+  "name_tw": "狂亂坦克貓降臨",
+  "name_jp": "狂乱のタンク降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sb",
+  "name_tw": "狂亂戰鬥貓降臨",
+  "name_jp": "狂乱のバトル降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sc",
+  "name_tw": "狂亂噁心貓降臨",
+  "name_jp": "狂乱のキモネコ降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sd",
+  "name_tw": "狂亂牛貓降臨",
+  "name_jp": "狂乱のウシ降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "se",
+  "name_tw": "狂亂鳥貓降臨",
+  "name_jp": "狂乱のトリ降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sf",
+  "name_tw": "狂亂魚貓降臨",
+  "name_jp": "狂乱のフィッシュ降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sg",
+  "name_tw": "狂亂蜥蜴貓降臨",
+  "name_jp": "狂乱のトカゲ降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sh",
+  "name_tw": "狂亂巨神貓降臨",
+  "name_jp": "狂乱の巨神降臨",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "si",
+  "name_tw": "春天來了!高校教師",
+  "name_jp": "春だよ！高校教師",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "sj",
+  "name_tw": "週末關卡",
+  "name_jp": "土日ステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "sk",
+  "name_tw": "游擊戰經驗值喵！",
+  "name_jp": "ゲリラ経験値にゃ！",
+  "resetmode": -1
+ },
+ {
+  "id": "sl",
+  "name_tw": "相思病戀歌",
+  "name_jp": "コイの五月病",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "sm",
+  "name_tw": "禁斷之妻",
+  "name_jp": "禁断の花嫁",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "sn",
+  "name_tw": "因為夏天喵！",
+  "name_jp": "だって夏じゃニャーイ！",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "so",
+  "name_tw": "返鄉熱潮！",
+  "name_jp": "あの世からの帰省ラッシュ！",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "sp",
+  "name_tw": "月間活動全明星 特別紀念！",
+  "name_jp": "月イベントオールスターズ スペシャル記念！",
+  "stars": 100150200,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sq",
+  "name_tw": "月間活動全明星 超強紀念！",
+  "name_jp": "月イベントオールスターズ ウルトラ記念！",
+  "stars": 100150200,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "sr",
+  "name_tw": "月間活動全明星 無敵紀念！",
+  "name_jp": "月イベントオールスターズ ミラクル記念！",
+  "stars": 100150200,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "ss",
+  "name_tw": "在鎮上看到的超強老人",
+  "name_jp": "町でみたすごい老人",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "st",
+  "name_tw": "韓国版☆特別ステージ",
+  "name_jp": "韓国版☆特別ステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "su",
+  "name_tw": "秋天運動會！",
+  "name_jp": "秋だよ運動会！",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "sv",
+  "name_tw": "天譴",
+  "name_jp": "天罰",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "sw",
+  "name_tw": "祝你生日快樂！ 之１",
+  "name_jp": "バースデープレゼント！その1",
+  "resetmode": -1
+ },
+ {
+  "id": "sx",
+  "name_tw": "祝你生日快樂！ 之２",
+  "name_jp": "バースデープレゼント！その2",
+  "resetmode": -1
+ },
+ {
+  "id": "sy",
+  "name_tw": "祝你生日快樂！ 之３",
+  "name_jp": "バースデープレゼント！その3",
+  "resetmode": -1
+ },
+ {
+  "id": "sz",
+  "name_tw": "鐵子的部屋",
+  "name_jp": "鉄子の部屋",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t0",
+  "name_tw": "今年也請多指教！",
+  "name_jp": "ことよろにゃ！",
+  "resetmode": -1
+ },
+ {
+  "id": "t1",
+  "name_tw": "開眼女優貓來襲！",
+  "name_jp": "開眼の女優襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t2",
+  "name_tw": "開眼功夫貓來襲！",
+  "name_jp": "開眼のカンフー襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t3",
+  "name_tw": "開眼Mr.來襲！",
+  "name_jp": "開眼のMr.襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t4",
+  "name_tw": "開眼緊縛貓來襲！",
+  "name_jp": "開眼の猫縛り襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t5",
+  "name_tw": "開眼女王貓來襲！",
+  "name_jp": "開眼の女王猫襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t6",
+  "name_tw": "開眼箱貓來襲！",
+  "name_jp": "開眼の箱詰め襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t7",
+  "name_tw": "開眼三角褲貓來襲！",
+  "name_jp": "開眼のパンツ襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t8",
+  "name_tw": "開眼輪輪貓來襲！",
+  "name_jp": "開眼のリンリン襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "t9",
+  "name_tw": "開眼忍者貓來襲！",
+  "name_jp": "開眼の忍者襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "ta",
+  "name_tw": "開眼殭屍貓來襲！",
+  "name_jp": "開眼のゾンビ襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "tb",
+  "name_tw": "開眼武士貓來襲！",
+  "name_jp": "開眼のさむらい襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "tc",
+  "name_tw": "開眼相撲貓來襲！",
+  "name_jp": "開眼のスモウ襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "td",
+  "name_tw": "開眼狂歡貓來襲！",
+  "name_jp": "開眼のフィーバー襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "te",
+  "name_tw": "開眼短裙貓來襲！",
+  "name_jp": "開眼のスカート襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "tf",
+  "name_tw": "超級游擊經驗值喵！",
+  "name_jp": "超ゲリラ経験値にゃ！",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "tg",
+  "name_tw": "情人節ｖｓ白色情人節大戰爭",
+  "name_jp": "バレンタインVSホワイトデー大戦争(旧)",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "th",
+  "name_tw": "黑夜襲擊　1st",
+  "name_jp": "闇討ち 1st(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "ti",
+  "name_tw": "黑夜襲擊　2nd",
+  "name_jp": "闇討ち 2nd(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "tj",
+  "name_tw": "黑夜襲擊　3rd",
+  "name_jp": "闇討ち 3rd(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "tk",
+  "name_tw": "黑夜襲擊　Last",
+  "name_jp": "闇討ち Last(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "tl",
+  "name_tw": "貓咪大戰爭3DS！",
+  "name_jp": "とびだす！にゃんこ大戦争",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "tm",
+  "name_tw": "絕望異次元",
+  "name_jp": "絶望異次元",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "tn",
+  "name_tw": "小籠包★Q彈來襲",
+  "name_jp": "TWその１",
+  "resetmode": -1
+ },
+ {
+  "id": "to",
+  "name_tw": "慶祝2000萬下載紀念 HAPPY大禮！",
+  "name_jp": "2000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": -1
+ },
+ {
+  "id": "tp",
+  "name_tw": "極難祭！",
+  "name_jp": "極ムズカーニバル！",
+  "stagecond": 1,
+  "resetmode": 0
+ },
+ {
+  "id": "tq",
+  "name_tw": "月間活動全明星 絕佳紀念！",
+  "name_jp": "月イベントオールスターズ ワンダフル記念！",
+  "stars": 100150200,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "tr",
+  "name_tw": "EN１",
+  "name_jp": "EN１",
+  "resetmode": -1
+ },
+ {
+  "id": "ts",
+  "name_tw": "正統萬聖節到來!",
+  "name_jp": "王道ハロウィン到来！(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "tt",
+  "name_tw": "游擊星期一關卡",
+  "name_jp": "ゲリラ月曜ステージ",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "tu",
+  "name_tw": "游擊星期二關卡",
+  "name_jp": "ゲリラ火曜ステージ",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "tv",
+  "name_tw": "游擊星期三關卡",
+  "name_jp": "ゲリラ水曜ステージ",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "tw",
+  "name_tw": "游擊星期四關卡",
+  "name_jp": "ゲリラ木曜ステージ",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "tx",
+  "name_tw": "游擊星期五關卡",
+  "name_jp": "ゲリラ金曜ステージ",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "ty",
+  "name_tw": "逆襲的臉君",
+  "name_jp": "逆襲のカオル君",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": 0
+ },
+ {
+  "id": "tz",
+  "name_tw": "活動全明星關卡 卓越紀念！",
+  "name_jp": "イベントオールスターズ エクセレント記念！",
+  "stars": 100150200,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "u0",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": -1
+ },
+ {
+  "id": "u1",
+  "name_tw": "紅鼻子聖誕老人的禮物！",
+  "name_jp": "赤鼻サンタのプレゼント！(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "u2",
+  "name_tw": "新年也請多多指教!",
+  "name_jp": "ことよろにゃ！(ΦωΦ)",
+  "resetmode": -1
+ },
+ {
+  "id": "u3",
+  "name_tw": "開眼成人貓來襲！",
+  "name_jp": "開眼のにゃんこ成人襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "u4",
+  "name_tw": "開眼我是鬼來襲！",
+  "name_jp": "開眼の吾輩は鬼である襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "u5",
+  "name_tw": "開眼人偶貓咪來襲！",
+  "name_jp": "開眼のひなにゃんこ襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "u6",
+  "name_tw": "開眼少女貓來襲！",
+  "name_jp": "開眼のネコ乙女襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "u7",
+  "name_tw": "開眼至死不渝的戀情來襲！",
+  "name_jp": "開眼のマジでコイしてる襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "u8",
+  "name_tw": "開眼新娘太太來襲！",
+  "name_jp": "開眼のマダム・ザ・花嫁襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "u9",
+  "name_tw": "開眼女王的假期來襲！",
+  "name_jp": "開眼の女王様の休日襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "ua",
+  "name_tw": "開眼幽魂吶吶來襲！",
+  "name_jp": "開眼のうらめしにゃん襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "ub",
+  "name_tw": "開眼功夫貓Ｇ來襲！",
+  "name_jp": "開眼のカンフーにゃんこＧ襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "uc",
+  "name_tw": "開眼運動會貓來襲！",
+  "name_jp": "開眼のネコ運動会襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "ud",
+  "name_tw": "開眼上班族貓來襲！",
+  "name_jp": "開眼のネコリーマン襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "ue",
+  "name_tw": "開眼的馴鹿魚來襲！",
+  "name_jp": "開眼のトナカイフィッシュ襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "uf",
+  "name_tw": "斷罪天使海蝶降臨",
+  "name_jp": "断罪天使クオリネル降臨",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "ug",
+  "name_tw": "緊急暴風警報",
+  "name_jp": "緊急爆風警報",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "uh",
+  "name_tw": "進化的綠色貓薄荷",
+  "name_jp": "進化の緑マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "ui",
+  "name_tw": "進化的紫色貓薄荷",
+  "name_jp": "進化の紫マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "uj",
+  "name_tw": "進化的紅色貓薄荷",
+  "name_jp": "進化の赤マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "uk",
+  "name_tw": "進化的藍色貓薄荷",
+  "name_jp": "進化の青マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "ul",
+  "name_tw": "進化的黃色貓薄荷",
+  "name_jp": "進化の黄マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "um",
+  "name_tw": "大狂亂貓咪降臨",
+  "name_jp": "大狂乱のネコ降臨",
+  "mapcond": "a",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "un",
+  "name_tw": "大狂亂坦克貓降臨",
+  "name_jp": "大狂乱のタンク降臨",
+  "mapcond": "b",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "uo",
+  "name_tw": "大狂亂戰鬥貓降臨",
+  "name_jp": "大狂乱のバトル降臨",
+  "mapcond": "c",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "up",
+  "name_tw": "大狂亂噁心貓降臨",
+  "name_jp": "大狂乱のキモネコ降臨",
+  "mapcond": "d",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "uq",
+  "name_tw": "大狂亂牛貓降臨",
+  "name_jp": "大狂乱のウシ降臨",
+  "mapcond": "e",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "ur",
+  "name_tw": "大狂亂鳥貓降臨",
+  "name_jp": "大狂乱のトリ降臨",
+  "mapcond": "f",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "us",
+  "name_tw": "大狂亂魚貓降臨",
+  "name_jp": "大狂乱のフィッシュ降臨",
+  "mapcond": "g",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "ut",
+  "name_tw": "大狂亂蜥蜴貓降臨",
+  "name_jp": "大狂乱のトカゲ降臨",
+  "mapcond": "h",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "uu",
+  "name_tw": "大狂亂巨神貓降臨",
+  "name_jp": "大狂乱の巨神降臨",
+  "mapcond": "i",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "uv",
+  "name_tw": "禍不單行",
+  "name_jp": "弱り目に祟り目",
+  "mapcond": 3,
+  "stagecond": 4,
+  "resetmode": 2
+ },
+ {
+  "id": "uw",
+  "name_tw": "神判日",
+  "name_jp": "神判の日",
+  "mapcond": 3,
+  "stagecond": 4,
+  "resetmode": 2
+ },
+ {
+  "id": "ux",
+  "name_tw": "協賛BitSummit記念！",
+  "name_jp": "協賛BitSummit記念！",
+  "resetmode": -1
+ },
+ {
+  "id": "uy",
+  "name_tw": "超尖端科技",
+  "name_jp": "オーバーテクノロジー",
+  "mapcond": 3,
+  "stagecond": 4,
+  "resetmode": 2
+ },
+ {
+  "id": "uz",
+  "name_tw": "心動夏日祭典",
+  "name_jp": "ときめき夏祭り",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "v0",
+  "name_tw": "神秘宅速配",
+  "name_jp": "謎の宅配便",
+  "resetmode": 0
+ },
+ {
+  "id": "v1",
+  "name_tw": "地獄門",
+  "name_jp": "地獄門",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "v2",
+  "name_tw": "貓薄荷挑戰",
+  "name_jp": "マタタビチャレンジ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "v3",
+  "name_tw": "女帝飛來",
+  "name_jp": "女帝飛来",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "v4",
+  "name_tw": "極難祭2！",
+  "name_jp": "極ムズカーニバル2！",
+  "stagecond": 1,
+  "resetmode": 0
+ },
+ {
+  "id": "v5",
+  "name_tw": "文化祭美食戰爭",
+  "name_jp": "文化祭グルメ戦争(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "v6",
+  "name_tw": "滾死樂團",
+  "name_jp": "ローリングデッド",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "v7",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": -1
+ },
+ {
+  "id": "v8",
+  "name_tw": "終極游擊經驗值喵！",
+  "name_jp": "極ゲリラ経験値にゃ！",
+  "mapcond": 3,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "v9",
+  "name_tw": "貓咪雪祭",
+  "name_jp": "にゃんこ雪まつり",
+  "resetmode": 1
+ },
+ {
+  "id": "va",
+  "name_tw": "今年也請多指教！",
+  "name_jp": "ことよろにゃ！(ΦωΦ)",
+  "resetmode": -1
+ },
+ {
+  "id": "vb",
+  "name_tw": "日本貓咪節",
+  "name_jp": "２２２ ～猫の日～(旧)",
+  "stars": 100130150,
+  "resetmode": -1
+ },
+ {
+  "id": "vc",
+  "name_tw": "亡者肥普降臨",
+  "name_jp": "亡者デブウ降臨",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": -1
+ },
+ {
+  "id": "vd",
+  "name_tw": "神秘復活節",
+  "name_jp": "謎のイースター",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "ve",
+  "name_tw": "開眼小小貓來襲！",
+  "name_jp": "開眼のちびネコ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vf",
+  "name_tw": "開眼小小坦克貓來襲！",
+  "name_jp": "開眼のちびタンクネコ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vg",
+  "name_tw": "開眼小小戰鬥貓來襲！",
+  "name_jp": "開眼のちびバトルネコ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vh",
+  "name_tw": "開眼小小噁心貓來襲！",
+  "name_jp": "開眼のちびキモネコ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vi",
+  "name_tw": "開眼小小牛貓來襲！",
+  "name_jp": "開眼のちびウシネコ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vj",
+  "name_tw": "開眼小小鳥貓來襲！",
+  "name_jp": "開眼のちびネコノトリ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vk",
+  "name_tw": "開眼小小魚貓來襲！",
+  "name_jp": "開眼のちびネコフィッシュ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vl",
+  "name_tw": "開眼小小蜥蜴貓來襲！",
+  "name_jp": "開眼のちびネコトカゲ襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vm",
+  "name_tw": "開眼小小巨神貓來襲！",
+  "name_jp": "開眼のちびネコ巨神襲来！",
+  "mapcond": 4,
+  "stagecond": 4,
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "vn",
+  "name_tw": "神秘好禮！",
+  "name_jp": "謎のプレゼント",
+  "resetmode": -1
+ },
+ {
+  "id": "vo",
+  "name_tw": "日進斗金 淘金夢",
+  "name_jp": "黄金週間ゴールデンウィーク",
+  "resetmode": 1
+ },
+ {
+  "id": "vp",
+  "name_tw": "協賛BitSummit記念！",
+  "name_jp": "協賛BitSummit記念！",
+  "resetmode": -1
+ },
+ {
+  "id": "vq",
+  "name_tw": "濕濕黏黏大進擊！",
+  "name_jp": "じめじめなめなめ大進撃！(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "vr",
+  "name_tw": "開眼のにゃんこカート襲来！",
+  "name_jp": "開眼のにゃんこカート襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "vs",
+  "name_tw": "開眼のネコンドー襲来！",
+  "name_jp": "開眼のネコンドー襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "vt",
+  "name_tw": "3000萬下載紀念 HAPPY大禮！",
+  "name_jp": "3000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": -1
+ },
+ {
+  "id": "vu",
+  "name_tw": "活動全明星 偉大紀念！",
+  "name_jp": "イベントオールスターズ グレイト記念！",
+  "stars": 100150200,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "vv",
+  "name_tw": "謎のプレゼント2",
+  "name_jp": "謎のプレゼント2",
+  "resetmode": -1
+ },
+ {
+  "id": "vw",
+  "name_tw": "開眼花盆貓來襲！",
+  "name_jp": "開眼のネコフラワー襲来！",
+  "mapcond": 3,
+  "stagecond": 6,
+  "resetmode": -1
+ },
+ {
+  "id": "vx",
+  "name_tw": "暑修課程",
+  "name_jp": "サマーレッスン",
+  "resetmode": 1
+ },
+ {
+  "id": "vy",
+  "name_tw": "紅磚與宇宙石的洞窟",
+  "name_jp": "レンガと宇宙石の洞窟",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "vz",
+  "name_tw": "備長炭與神秘骨頭的島",
+  "name_jp": "備長炭と謎の骨の島",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "w0",
+  "name_tw": "羽毛與齒輪與黃金的海岬",
+  "name_jp": "羽根と歯車と黄金の岬",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "w1",
+  "name_tw": "開眼のにゃんこバーガー襲来！",
+  "name_jp": "開眼のにゃんこバーガー襲来！",
+  "mapcond": 1,
+  "stagecond": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "w2",
+  "name_tw": "秋季白金週",
+  "name_jp": "秋色シルバーウィーク",
+  "resetmode": 1
+ },
+ {
+  "id": "w3",
+  "name_tw": "超終極游擊經驗值喵！",
+  "name_jp": "超極ゲリラ経験値にゃ！",
+  "mapcond": 6,
+  "resetmode": 0
+ },
+ {
+  "id": "w4",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "w5",
+  "name_tw": "絕望新次元",
+  "name_jp": "絶望新次元",
+  "mapcond": 4,
+  "stagecond": 7,
+  "resetmode": -1
+ },
+ {
+  "id": "w6",
+  "name_tw": "吉娃娃伯爵降臨",
+  "name_jp": "チワワン伯爵降臨",
+  "mapcond": 4,
+  "stagecond": 6,
+  "resetmode": -1,
+  "limit": "0,-1,49,0,0,0,0,0"
+ },
+ {
+  "id": "w7",
+  "name_tw": "今年也請多指教！",
+  "name_jp": "ことよろにゃ！(ΦωΦ)",
+  "resetmode": -1
+ },
+ {
+  "id": "w8",
+  "name_tw": "加油！入考大戰爭",
+  "name_jp": "がんばれ！受験大戦争",
+  "resetmode": 1
+ },
+ {
+  "id": "w9",
+  "name_tw": "狂亂萌貓降臨",
+  "name_jp": "狂乱のもねこ降臨",
+  "mapcond": 3,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wa",
+  "name_tw": "進化的古代貓薄荷",
+  "name_jp": "進化の古代マタタビ",
+  "mapcond": "k",
+  "stagecond": "k",
+  "resetmode": -1
+ },
+ {
+  "id": "wb",
+  "name_tw": "協賛BitSummit記念！",
+  "name_jp": "協賛BitSummit記念！",
+  "resetmode": -1
+ },
+ {
+  "id": "wc",
+  "name_tw": "濕濕黏黏大進擊！",
+  "name_jp": "じめじめなめなめ大進撃！",
+  "resetmode": -1
+ },
+ {
+  "id": "wd",
+  "name_tw": "續・禁斷之妻",
+  "name_jp": "続・禁断の花嫁",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "we",
+  "name_tw": "因為超級夏天喵！",
+  "name_jp": "だって超夏じゃニャーイ！",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wf",
+  "name_tw": "收假熱潮！",
+  "name_jp": "あの世へのUターンラッシュ！",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wg",
+  "name_tw": "在鎮上看到的超強老人2",
+  "name_jp": "町でみたすごい老人２",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wh",
+  "name_tw": "絕・紅色突變",
+  "name_jp": "絶・紅のカタストロフ",
+  "mapcond": "u",
+  "stagecond": "u",
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,1200,0,0"
+ },
+ {
+  "id": "wi",
+  "name_tw": "夜間運動會！",
+  "name_jp": "夜だよ！大運動会",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wj",
+  "name_tw": "工作方式大革命",
+  "name_jp": "働き方レボリューション",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wk",
+  "name_tw": "絕・黑暗天堂",
+  "name_jp": "絶・ダークネスヘブン",
+  "mapcond": "v",
+  "stagecond": "v",
+  "resetmode": -1,
+  "limit": "0,0,4,0,0,0,0,0"
+ },
+ {
+  "id": "wl",
+  "name_tw": "大逆襲的鋼鐵熊",
+  "name_jp": "大逆襲のメタックマ",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": 0
+ },
+ {
+  "id": "wm",
+  "name_tw": "文化祭美食戰爭",
+  "name_jp": "文化祭グルメ戦争",
+  "resetmode": -1
+ },
+ {
+  "id": "wn",
+  "name_tw": "宇宙中聖誕節居然也來了！",
+  "name_jp": "宇宙からもクリスマスが来た！",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wo",
+  "name_tw": "絕・國士無雙",
+  "name_jp": "絶・国士無双",
+  "mapcond": "w",
+  "stagecond": "w",
+  "resetmode": -1,
+  "limit": "0,0,0,10,0,0,0,0"
+ },
+ {
+  "id": "wp",
+  "name_tw": "春宵苦短，少女做夢吧！",
+  "name_jp": "夜は短し夢みよ乙女",
+  "mapcond": 4,
+  "stagecond": 6,
+  "resetmode": -1
+ },
+ {
+  "id": "wq",
+  "name_tw": "紅色戰亂 1st",
+  "name_jp": "赤狩り 1st(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "wr",
+  "name_tw": "紅色戰亂 2nd",
+  "name_jp": "赤狩り 2nd(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "ws",
+  "name_tw": "紅色戰亂 3rd",
+  "name_jp": "赤狩り 3rd(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "wt",
+  "name_tw": "紅色戰亂 Last",
+  "name_jp": "赤狩り Last(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "wu",
+  "name_tw": "活動全明星 超級豪華大禮",
+  "name_jp": "イベントオールスターズ スーパープレゼントDX",
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "wv",
+  "name_tw": "生日禮物",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "ww",
+  "name_tw": "新年快樂了？",
+  "name_jp": "新年、あけてました。おめっ...",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wx",
+  "name_tw": "絕・天譴",
+  "name_jp": "絶・天罰",
+  "mapcond": "x",
+  "stagecond": "x",
+  "resetmode": -1,
+  "limit": "0,0,4,0,0,0,0,0"
+ },
+ {
+  "id": "wy",
+  "name_tw": "再次被召喚的福！",
+  "name_jp": "さらに召喚された福！",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "wz",
+  "name_tw": "絕・鐵子的部屋",
+  "name_jp": "絶・鉄子の部屋",
+  "mapcond": "y",
+  "stagecond": "y",
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,0,750,0"
+ },
+ {
+  "id": "x0",
+  "name_tw": "今年也請多指教！",
+  "name_jp": "ことよろにゃ！(ΦωΦ)",
+  "resetmode": -1
+ },
+ {
+  "id": "x1",
+  "name_tw": "零號颱風",
+  "name_jp": "台風零号",
+  "mapcond": "k",
+  "stagecond": "k",
+  "resetmode": -1
+ },
+ {
+  "id": "x2",
+  "name_tw": "極難祭3！",
+  "name_jp": "極ムズカーニバル3！",
+  "mapcond": 1,
+  "stagecond": 7,
+  "resetmode": 0
+ },
+ {
+  "id": "x3",
+  "name_tw": "慶祝4000萬下載紀念 HAPPY大禮！",
+  "name_jp": "4000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": -1
+ },
+ {
+  "id": "x4",
+  "name_tw": "人偶架上的戰士們特別版",
+  "name_jp": "雛壇の戦士達SP",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "x5",
+  "name_tw": "絕・絕望異次元",
+  "name_jp": "絶・絶望異次元",
+  "mapcond": "z",
+  "stagecond": "z",
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,300,0,0"
+ },
+ {
+  "id": "x6",
+  "name_tw": "新・春天來了!高校教師",
+  "name_jp": "新・春だよ！高校教師",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "x7",
+  "name_tw": "絕・緊急暴風警報",
+  "name_jp": "絶・緊急爆風警報",
+  "mapcond": "2j",
+  "stagecond": "2j",
+  "resetmode": -1,
+  "limit": "0,0,8,0,0,0,0,0"
+ },
+ {
+  "id": "x8",
+  "name_tw": "絕・斷罪天使海蝶降臨",
+  "name_jp": "絶・断罪天使クオリネル降臨",
+  "mapcond": 10,
+  "stagecond": 10,
+  "resetmode": -1,
+  "limit": "0,0,0,5,0,0,0,0"
+ },
+ {
+  "id": "x9",
+  "name_tw": "再一次的相思病戀歌",
+  "name_jp": "コイの五月病アゲイン",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "xa",
+  "name_tw": "絕・滾死樂團",
+  "name_jp": "絶・ローリングデッド",
+  "mapcond": "2k",
+  "stagecond": "2k",
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,0,600,0"
+ },
+ {
+  "id": "xb",
+  "name_tw": "絕・地獄門",
+  "name_jp": "絶・地獄門",
+  "mapcond": 11,
+  "stagecond": 11,
+  "resetmode": -1,
+  "limit": "0,0,51,0,0,0,0,0"
+ },
+ {
+  "id": "xc",
+  "name_tw": "にゃんこグミ大戦争",
+  "name_jp": "にゃんこグミ大戦争",
+  "resetmode": 0
+ },
+ {
+  "id": "xd",
+  "name_tw": "絕・女帝飛來",
+  "name_jp": "絶・女帝飛来",
+  "mapcond": 12,
+  "stagecond": 12,
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,0,3900,0"
+ },
+ {
+  "id": "xe",
+  "name_tw": "協賛BitSummit記念！",
+  "name_jp": "協賛BitSummit記念！",
+  "resetmode": -1
+ },
+ {
+  "id": "xf",
+  "name_tw": "絕・絕望新次元",
+  "name_jp": "絶・絶望新次元",
+  "mapcond": "2l",
+  "stagecond": "2l",
+  "resetmode": -1,
+  "limit": "0,0,3,0,0,0,0,0"
+ },
+ {
+  "id": "xg",
+  "name_tw": "神秘宅速配",
+  "name_jp": "謎の宅配便",
+  "resetmode": 1
+ },
+ {
+  "id": "xh",
+  "name_tw": "絕・亡者肥普降臨",
+  "name_jp": "絶・亡者デブウ降臨",
+  "mapcond": 13,
+  "stagecond": 13,
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,1200,0,0"
+ },
+ {
+  "id": "xi",
+  "name_tw": "兩人一起！貓咪大戰爭",
+  "name_jp": "ふたりで！にゃんこ大戦争",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "xj",
+  "name_tw": "絕・吉娃娃伯爵降臨",
+  "name_jp": "絶・チワワン伯爵降臨",
+  "mapcond": 14,
+  "stagecond": 14,
+  "resetmode": -1,
+  "limit": "0,0,8,0,0,0,0,0"
+ },
+ {
+  "id": "xk",
+  "name_tw": "狂亂家族大亂鬥",
+  "name_jp": "大乱闘狂乱ファミリーズ",
+  "mapcond": "j",
+  "stagecond": "j",
+  "resetmode": -1
+ },
+ {
+  "id": "xl",
+  "name_tw": "喵喵紀念日",
+  "name_jp": "にゃんにゃん記念日",
+  "resetmode": 0
+ },
+ {
+  "id": "xm",
+  "name_tw": "草原的決鬥",
+  "name_jp": "草原の決闘(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,1,0,0,0,0"
+ },
+ {
+  "id": "xn",
+  "name_tw": "晚霞的決鬥",
+  "name_jp": "夕焼けの決闘(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,1,0,0,0,0"
+ },
+ {
+  "id": "xo",
+  "name_tw": "星空的決鬥",
+  "name_jp": "星空の決闘(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,1,0,0,0,0"
+ },
+ {
+  "id": "xp",
+  "name_tw": "沙灘的決鬥",
+  "name_jp": "砂浜の決闘(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,1,0,0,0,0|0,-1,0,1,0,0,0,0"
+ },
+ {
+  "id": "xq",
+  "name_tw": "絕・春宵苦短，少女做夢吧！",
+  "name_jp": "絶・夜は短し夢みよ乙女",
+  "mapcond": 15,
+  "stagecond": 15,
+  "resetmode": -1,
+  "limit": "0,0,53,0,0,0,0,0"
+ },
+ {
+  "id": "xr",
+  "name_tw": "藍色衝擊",
+  "name_jp": "ブルーインパクト",
+  "mapcond": 7,
+  "stagecond": 8,
+  "resetmode": -1
+ },
+ {
+  "id": "xs",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "xt",
+  "name_tw": "奈落門",
+  "name_jp": "奈落門",
+  "mapcond": 11,
+  "stagecond": 2633,
+  "resetmode": -1
+ },
+ {
+  "id": "xu",
+  "name_tw": "謎の宅配便",
+  "name_jp": "謎の宅配便",
+  "resetmode": 1
+ },
+ {
+  "id": "xv",
+  "name_tw": "聖者波普降臨",
+  "name_jp": "聖者ポプウ降臨",
+  "mapcond": 13,
+  "stagecond": 2639,
+  "resetmode": -1
+ },
+ {
+  "id": "xw",
+  "name_tw": "古王妃飛來",
+  "name_jp": "古王妃飛来",
+  "mapcond": 12,
+  "stagecond": 2635,
+  "resetmode": -1
+ },
+ {
+  "id": "xx",
+  "name_tw": "今年也請多指教！",
+  "name_jp": "ことよろにゃ！(ΦωΦ)",
+  "resetmode": -1
+ },
+ {
+  "id": "xy",
+  "name_tw": "進化的彩虹貓薄荷",
+  "name_jp": "進化の虹マタタビ",
+  "mapcond": "2f6w",
+  "stagecond": "2f6w",
+  "resetmode": -1
+ },
+ {
+  "id": "xz",
+  "name_tw": "2019年度最多演出敵人前五名！",
+  "name_jp": "2019年最多出演敵ベスト５！",
+  "resetmode": -1
+ },
+ {
+  "id": "y0",
+  "name_tw": "農曆新年關卡",
+  "name_jp": "旧正月ステージ",
+  "resetmode": 0
+ },
+ {
+  "id": "y1",
+  "name_tw": "神秘宅速配",
+  "name_jp": "謎の宅配便",
+  "resetmode": 1
+ },
+ {
+  "id": "y2",
+  "name_tw": "暗沼幽靈",
+  "name_jp": "ほの暗い沼の底から",
+  "mapcond": 4,
+  "stagecond": 5,
+  "resetmode": -1
+ },
+ {
+  "id": "y3",
+  "name_tw": "火口決鬥",
+  "name_jp": "火口の決闘(旧)",
+  "mapcond": "263h",
+  "stagecond": "263h",
+  "resetmode": -1,
+  "limit": "0,-1,0,1,0,0,0,0"
+ },
+ {
+  "id": "y4",
+  "name_tw": "5000萬下載紀念 HAPPY大禮！",
+  "name_jp": "5000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": -1
+ },
+ {
+  "id": "y5",
+  "name_tw": "綺羅星汪汪降臨",
+  "name_jp": "綺羅星ペロ降臨",
+  "mapcond": 14,
+  "stagecond": "263b",
+  "resetmode": -1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "y6",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント!",
+  "resetmode": 0
+ },
+ {
+  "id": "y7",
+  "name_tw": "死靈妖精海蝶降臨",
+  "name_jp": "死霊妖精クオリネム降臨",
+  "mapcond": 10,
+  "stagecond": 2630,
+  "resetmode": -1
+ },
+ {
+  "id": "y8",
+  "name_tw": "第一次的差事",
+  "name_jp": "はじめてのお遣い",
+  "mapcond": 15,
+  "stagecond": "263i",
+  "resetmode": -1
+ },
+ {
+  "id": "y9",
+  "name_tw": "地圖王的安眠島",
+  "name_jp": "地図王の眠る島(旧)",
+  "mapcond": 6,
+  "stagecond": 6,
+  "resetmode": -1
+ },
+ {
+  "id": "ya",
+  "name_tw": "大亂鬪 春季特別活動",
+  "name_jp": "大乱闘 春イベスペシャル",
+  "mapcond": 1,
+  "stagecond": "q",
+  "flags": 1,
+  "resetmode": 1
+ },
+ {
+  "id": "yb",
+  "name_tw": "大亂鬪 夏季特別活動",
+  "name_jp": "大乱闘 夏イベスペシャル",
+  "mapcond": 1,
+  "stagecond": "r",
+  "flags": 1,
+  "resetmode": 1
+ },
+ {
+  "id": "yc",
+  "name_tw": "大亂鬪 秋季特別活動",
+  "name_jp": "大乱闘 秋イベスペシャル",
+  "mapcond": 1,
+  "stagecond": "s",
+  "flags": 1,
+  "resetmode": 1
+ },
+ {
+  "id": "yd",
+  "name_tw": "大亂鬪 冬季特別活動",
+  "name_jp": "大乱闘 冬イベスペシャル",
+  "mapcond": 1,
+  "stagecond": "t",
+  "flags": 1,
+  "resetmode": 1
+ },
+ {
+  "id": "ye",
+  "name_tw": "雙人鬪技場 菜鳥",
+  "name_jp": "タッグ闘技場 ルーキー(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "yf",
+  "name_tw": "雙人鬪技場 入門",
+  "name_jp": "タッグ闘技場 ビギナー(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "yg",
+  "name_tw": "雙人鬪技場 老手",
+  "name_jp": "タッグ闘技場 ベテラン(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "yh",
+  "name_tw": "雙人闘技場 職業",
+  "name_jp": "タッグ闘技場 プロ(旧)",
+  "resetmode": -1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "yi",
+  "name_tw": "雙人闘技場 專家",
+  "name_jp": "タッグ闘技場 エキスパート(旧)",
+  "mapcond": 2649,
+  "stagecond": 2649,
+  "resetmode": -1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "yj",
+  "name_tw": "絕・暗沼幽靈",
+  "name_jp": "絶・ほの暗い沼の底から",
+  "mapcond": "2n",
+  "stagecond": "2n",
+  "resetmode": -1,
+  "limit": "0,0,53,0,0,0,0,0"
+ },
+ {
+  "id": "yk",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント!",
+  "resetmode": 0
+ },
+ {
+  "id": "yl",
+  "name_tw": "2020年度最多演出敵人前五名！",
+  "name_jp": "2020年最多出演敵ベスト５！",
+  "resetmode": -1
+ },
+ {
+  "id": "ym",
+  "name_tw": "破滅的序曲",
+  "name_jp": "破滅への序曲",
+  "mapcond": "2f6w",
+  "stagecond": "2f6w",
+  "resetmode": -1
+ },
+ {
+  "id": "yn",
+  "name_tw": "絕・零號颱風",
+  "name_jp": "絶・台風零号",
+  "mapcond": "2m",
+  "stagecond": "2m",
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,0,900,0"
+ },
+ {
+  "id": "yo",
+  "name_tw": "海底的決鬥",
+  "name_jp": "海底の決闘(旧)",
+  "mapcond": "263v",
+  "stagecond": "263v",
+  "resetmode": -1,
+  "limit": "0,-1,0,1,0,0,0,0"
+ },
+ {
+  "id": "yp",
+  "name_tw": "ネコウエハース降臨",
+  "name_jp": "ネコウエハース降臨",
+  "resetmode": 0
+ },
+ {
+  "id": "yq",
+  "name_tw": "終末連戰場",
+  "name_jp": "終末ノ連戦場",
+  "stagecond": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "yr",
+  "name_tw": "天使與般若",
+  "name_jp": "天使と般若",
+  "mapcond": 1,
+  "stagecond": "1s",
+  "resetmode": -1
+ },
+ {
+  "id": "ys",
+  "name_tw": "女帝與亡者",
+  "name_jp": "女帝と亡者",
+  "mapcond": 1,
+  "stagecond": "1t",
+  "resetmode": -1
+ },
+ {
+  "id": "yt",
+  "name_tw": "伯爵與乙女",
+  "name_jp": "伯爵と乙女",
+  "mapcond": 4,
+  "stagecond": "1u",
+  "resetmode": -1,
+  "limit": "0,-1,49,0,0,0,0,0"
+ },
+ {
+  "id": "yu",
+  "name_tw": "6000萬下載紀念 HAPPY大禮！",
+  "name_jp": "6000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": -1
+ },
+ {
+  "id": "yv",
+  "name_tw": "魔法書暗示的場所",
+  "name_jp": "魔導書の示す場所",
+  "mapcond": 3,
+  "stagecond": 3,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "yw",
+  "name_tw": "異界的僕人",
+  "name_jp": "異界のしもべ",
+  "mapcond": 3,
+  "stagecond": 3,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "yx",
+  "name_tw": "解放的貓咪",
+  "name_jp": "ネコの解放",
+  "mapcond": "264n",
+  "stagecond": "264n",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "yy",
+  "name_tw": "解放的坦克貓",
+  "name_jp": "タンクネコの解放",
+  "mapcond": "264o",
+  "stagecond": "264o",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "yz",
+  "name_tw": "大魔王",
+  "name_jp": "メガサターン",
+  "mapcond": 3,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "z0",
+  "name_tw": "熱血！滾大球比賽",
+  "name_jp": "熱血！大玉転がし",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "z1",
+  "name_tw": "熱血！障礙物競走",
+  "name_jp": "熱血！障害物競走",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "z2",
+  "name_tw": "熱血！兩人三腳賽 低學年",
+  "name_jp": "熱血！二人三脚バトル  低学年",
+  "resetmode": 1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "z3",
+  "name_tw": "熱血！兩人三腳賽 中學年",
+  "name_jp": "熱血！二人三脚バトル  中学年",
+  "stagecond": "264u",
+  "resetmode": 1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "z4",
+  "name_tw": "熱血！兩人三腳賽 高學年",
+  "name_jp": "熱血！二人三脚バトル  高学年",
+  "stagecond": "264v",
+  "resetmode": 1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "z5",
+  "name_tw": "惡魔園",
+  "name_jp": "デーモンパーク",
+  "mapcond": 3,
+  "stagecond": 3,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "z6",
+  "name_tw": "解放的戰鬥貓",
+  "name_jp": "バトルネコの解放",
+  "mapcond": "264x",
+  "stagecond": "264x",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "z7",
+  "name_tw": "韓国版専用お年玉襲来！",
+  "name_jp": "韓国版専用お年玉襲来！",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "z8",
+  "name_tw": "解放的貓咪們",
+  "name_jp": "ネコたちの解放",
+  "mapcond": "1v",
+  "stagecond": "1v",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "z9",
+  "name_tw": "女王的研究報告1",
+  "name_jp": "女王の研究報告１",
+  "mapcond": 2650,
+  "stagecond": 2650,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "za",
+  "name_tw": "女王的研究報告2",
+  "name_jp": "女王の研究報告２",
+  "mapcond": 2651,
+  "stagecond": 2651,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "zb",
+  "name_tw": "女王的研究報告3",
+  "name_jp": "女王の研究報告３",
+  "mapcond": 2652,
+  "stagecond": 2652,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "zc",
+  "name_tw": "誘惑的交響曲",
+  "name_jp": "誘惑のシンフォニー",
+  "mapcond": 2650,
+  "stagecond": 2650,
+  "resetmode": -1
+ },
+ {
+  "id": "zd",
+  "name_tw": "羅生門",
+  "name_jp": "羅生門",
+  "mapcond": 2650,
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "ze",
+  "name_tw": "進化的惡貓薄荷",
+  "name_jp": "進化の悪マタタビ",
+  "mapcond": 2650,
+  "stagecond": 2650,
+  "flags": 2,
+  "resetmode": -1
+ },
+ {
+  "id": "zf",
+  "name_tw": "女王的研究報告4",
+  "name_jp": "女王の研究報告４",
+  "mapcond": 2653,
+  "stagecond": 2653,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "zg",
+  "name_tw": "女王的研究報告5",
+  "name_jp": "女王の研究報告５",
+  "mapcond": 2657,
+  "stagecond": 2657,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "zh",
+  "name_tw": "女王的挖掘調查1",
+  "name_jp": "女王の発掘調査１",
+  "mapcond": 2650,
+  "stagecond": 2650,
+  "flags": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "zi",
+  "name_tw": "女王的挖掘調查2",
+  "name_jp": "女王の発掘調査２",
+  "mapcond": 2659,
+  "stagecond": 2659,
+  "flags": 1,
+  "resetmode": 2,
+  "limit": "0,-1,0,15,0,0,0,0"
+ },
+ {
+  "id": "zj",
+  "name_tw": "女王的挖掘調查3",
+  "name_jp": "女王の発掘調査３",
+  "mapcond": "265a",
+  "stagecond": "265a",
+  "flags": 1,
+  "resetmode": 2,
+  "limit": "0,-1,0,15,0,0,0,0"
+ },
+ {
+  "id": "zk",
+  "name_tw": "女王的挖掘調查4",
+  "name_jp": "女王の発掘調査４",
+  "mapcond": "265b",
+  "stagecond": "265b",
+  "flags": 1,
+  "resetmode": 2,
+  "limit": "0,-1,0,15,0,0,0,0"
+ },
+ {
+  "id": "zl",
+  "name_tw": "女王的挖掘調查5",
+  "name_jp": "女王の発掘調査５",
+  "mapcond": "265c",
+  "stagecond": "265c",
+  "flags": 1,
+  "resetmode": 2,
+  "limit": "0,-1,0,15,0,0,0,0"
+ },
+ {
+  "id": "zm",
+  "name_tw": "Q1.猜猜我是誰",
+  "name_jp": "Q1.箱の中身クイズ",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "zn",
+  "name_tw": "Q5.輸贏靠時運",
+  "name_jp": "Q5.時の運クイズ",
+  "resetmode": -1
+ },
+ {
+  "id": "zo",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "zp",
+  "name_tw": "2021年度最多演出敵人前五名！",
+  "name_jp": "2021年最多出演敵ベスト５！",
+  "resetmode": -1
+ },
+ {
+  "id": "zq",
+  "name_tw": "紅包來襲！",
+  "name_jp": "お年玉襲来！",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "zr",
+  "name_tw": "黑夜襲擊之戰",
+  "name_jp": "闇討ちの戦い",
+  "waitfortimer": "6小時",
+  "resetmode": 1
+ },
+ {
+  "id": "zs",
+  "name_tw": "農曆新年HAPPY大禮！",
+  "name_jp": "春節ハッピープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "zt",
+  "name_tw": "烈火之亂",
+  "name_jp": "烈火の乱",
+  "waitfortimer": "6小時",
+  "resetmode": 1
+ },
+ {
+  "id": "zu",
+  "name_tw": "後輩送的本命巧克力",
+  "name_jp": "後輩からの本命チョコ",
+  "resetmode": 1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "zv",
+  "name_tw": "前輩送的本命巧克力",
+  "name_jp": "先輩からの本命チョコ",
+  "stagecond": "265m",
+  "resetmode": 1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "zw",
+  "name_tw": "青梅竹馬送的本命巧克力",
+  "name_jp": "幼なじみからの本命チョコ",
+  "stagecond": "265n",
+  "resetmode": 1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "zx",
+  "name_tw": "中秋節HAPPY大禮！",
+  "name_jp": "中秋節ハッピープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "zy",
+  "name_tw": "ダミー",
+  "name_jp": "ダミー",
+  "resetmode": -1
+ },
+ {
+  "id": "zz",
+  "name_tw": "ダミー",
+  "name_jp": "ダミー",
+  "resetmode": -1
+ },
+ {
+  "id": 100,
+  "name_tw": "絕・奈落門",
+  "name_jp": "絶・奈落門",
+  "mapcond": "263l",
+  "stagecond": "263l",
+  "resetmode": -1,
+  "limit": "0,0,0,5,0,0,0,0"
+ },
+ {
+  "id": 101,
+  "name_tw": "我們的情人節戰爭",
+  "name_jp": "僕らのバレンタイン戦争",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 102,
+  "name_tw": "Season2～心動時分文化祭～",
+  "name_jp": "Season2～トキメキ文化祭～",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 103,
+  "name_tw": "Season3～校外教學～",
+  "name_jp": "Season3～修学旅行～",
+  "resetmode": 1
+ },
+ {
+  "id": 104,
+  "name_tw": "Weekend～告白～",
+  "name_jp": "Weekend～告白～",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": 105,
+  "name_tw": "Weekend～告白～",
+  "name_jp": "Weekend～告白～",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": 106,
+  "name_tw": "Weekend～告白～",
+  "name_jp": "Weekend～告白～",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": 107,
+  "name_tw": "Season4～畢業之日～",
+  "name_jp": "Season4～卒業の日～",
+  "stars": 100200,
+  "resetmode": 1,
+  "limit": "0,-1,0,0,0,0,0,5|1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": 108,
+  "name_tw": "7000萬下載紀念 HAPPY大禮！",
+  "name_jp": "7000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": 109,
+  "name_tw": "亡者與河豚",
+  "name_jp": "亡者と河豚",
+  "mapcond": 7,
+  "stagecond": "1z",
+  "resetmode": -1
+ },
+ {
+  "id": "10a",
+  "name_tw": "女帝與少女",
+  "name_jp": "女帝と乙女",
+  "mapcond": 4,
+  "stagecond": 20,
+  "resetmode": -1
+ },
+ {
+  "id": "10b",
+  "name_tw": "伯爵與天使",
+  "name_jp": "伯爵と天使",
+  "mapcond": 4,
+  "stagecond": 21,
+  "resetmode": -1,
+  "limit": "0,-1,49,0,0,0,0,0"
+ },
+ {
+  "id": "10c",
+  "name_tw": "#03「13號星期？」",
+  "name_jp": "#03「13日は何曜日」",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "10d",
+  "name_tw": "#04「貓鳴村」",
+  "name_jp": "#04「ネコ鳴村」",
+  "stars": 100150180,
+  "resetmode": 1
+ },
+ {
+  "id": "10e",
+  "name_tw": "決鬥大挑戰",
+  "name_jp": "決闘チャレンジ",
+  "resetmode": -1
+ },
+ {
+  "id": "10f",
+  "name_tw": "雙人鬪技大挑戰",
+  "name_jp": "タッグ闘技チャレンジ",
+  "resetmode": -1
+ },
+ {
+  "id": "10g",
+  "name_tw": "密林的異變",
+  "name_jp": "密林の異変",
+  "mapcond": "2o",
+  "stagecond": "2o",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "10h",
+  "name_tw": "沙漠的怪事",
+  "name_jp": "砂漠の怪異",
+  "mapcond": "2p",
+  "stagecond": "2p",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "10i",
+  "name_tw": "火山的威脅",
+  "name_jp": "火山の脅威",
+  "mapcond": "2q",
+  "stagecond": "2q",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "10j",
+  "name_tw": "蟲蟲王者相撲 預賽",
+  "name_jp": "トントンムシ相撲 予選",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,6"
+ },
+ {
+  "id": "10k",
+  "name_tw": "蟲蟲王者相撲 半準決賽",
+  "name_jp": "トントンムシ相撲 準々決勝",
+  "mapcond": "266b",
+  "stagecond": "266b",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,6"
+ },
+ {
+  "id": "10l",
+  "name_tw": "蟲蟲王者相撲 準決賽",
+  "name_jp": "トントンムシ相撲 準決勝",
+  "mapcond": "266c",
+  "stagecond": "266c",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,6"
+ },
+ {
+  "id": "10m",
+  "name_tw": "蟲蟲王者相撲 決賽",
+  "name_jp": "トントンムシ相撲 決勝",
+  "mapcond": "266d",
+  "stagecond": "266d",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,6"
+ },
+ {
+  "id": "10n",
+  "name_tw": "超終極惡游擊經驗值喵！",
+  "name_jp": "超極悪ゲリラ経験値にゃ！",
+  "mapcond": 2650,
+  "stagecond": 2650,
+  "resetmode": 0
+ },
+ {
+  "id": "10o",
+  "name_tw": "#02 甜點爭奪戰",
+  "name_jp": "#02 お菓子争奪戦",
+  "stars": 100150200200,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "10p",
+  "name_tw": "#04 超恐怖惡作劇",
+  "name_jp": "#04 恐怖の悪戯計画",
+  "stars": 100150200,
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 1
+ },
+ {
+  "id": "10q",
+  "name_tw": "第2部 敵軍団行進",
+  "name_jp": "第2部 敵軍団行進",
+  "resetmode": -1
+ },
+ {
+  "id": "10r",
+  "name_tw": "第5部 名曲パレード",
+  "name_jp": "第5部 名曲パレード",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "10s",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント!",
+  "resetmode": 0
+ },
+ {
+  "id": "10t",
+  "name_tw": "第一晚 辛勞的聖誕貓咪",
+  "name_jp": "第一夜 働くニャンタクロース",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "10u",
+  "name_tw": "進化的彩虹獸石",
+  "name_jp": "進化の虹獣石",
+  "mapcond": "2r",
+  "stagecond": "2r",
+  "flags": 2,
+  "resetmode": 2
+ },
+ {
+  "id": "10v",
+  "name_tw": "2022年度最多演出敵人前五名！",
+  "name_jp": "2022年最多出演敵ベスト５！",
+  "resetmode": -1
+ },
+ {
+  "id": "10w",
+  "name_tw": "8000萬下載紀念 HAPPY大禮！",
+  "name_jp": "8000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "10x",
+  "name_tw": "After Story～畢業之日～",
+  "name_jp": "After Story～卒業の日～",
+  "mapcond": "265z",
+  "stagecond": "265z",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": "10y",
+  "name_tw": "Weekend～再次告白～",
+  "name_jp": "Weekend～告白リベンジ～",
+  "mapcond": "265w",
+  "stagecond": "265w",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": "10z",
+  "name_tw": "Weekend～再次告白～",
+  "name_jp": "Weekend～告白リベンジ～",
+  "mapcond": "265x",
+  "stagecond": "265x",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": 110,
+  "name_tw": "Weekend～再次告白～",
+  "name_jp": "Weekend～告白リベンジ～",
+  "mapcond": "265y",
+  "stagecond": "265y",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,5"
+ },
+ {
+  "id": 111,
+  "name_tw": "密林的異變Ⅱ",
+  "name_jp": "密林の異変Ⅱ",
+  "mapcond": "2s",
+  "stagecond": "2s",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": 112,
+  "name_tw": "沙漠的怪事Ⅱ",
+  "name_jp": "砂漠の怪異Ⅱ",
+  "mapcond": "2t",
+  "stagecond": "2t",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": 113,
+  "name_tw": "火山的威脅Ⅱ",
+  "name_jp": "火山の脅威Ⅱ",
+  "mapcond": "2u",
+  "stagecond": "2u",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": 114,
+  "name_tw": "殭屍古堡",
+  "name_jp": "アンデッドハザード",
+  "waitfortimer": "6小時",
+  "resetmode": 1
+ },
+ {
+  "id": 115,
+  "name_tw": "開眼彩蛋貓來襲！",
+  "name_jp": "開眼のネコエッグ襲来！",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": 116,
+  "name_tw": "絕・綺羅星汪汪降臨",
+  "name_jp": "絶・綺羅星ペロ降臨",
+  "mapcond": "263x",
+  "stagecond": "263x",
+  "resetmode": -1,
+  "limit": "0,0,15,10,0,0,0,0"
+ },
+ {
+  "id": 117,
+  "name_tw": "小小貓大試煉",
+  "name_jp": "ちびネコ大試練",
+  "mapcond": "2v",
+  "stagecond": "2v",
+  "resetmode": 2,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 118,
+  "name_tw": "大魔王貓彈大降臨",
+  "name_jp": "大魔王ニャンダム大降臨",
+  "mapcond": 4,
+  "stagecond": 6,
+  "resetmode": -1
+ },
+ {
+  "id": 119,
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント",
+  "resetmode": 0
+ },
+ {
+  "id": "11a",
+  "name_tw": "絕・大魔王",
+  "name_jp": "絶・メガサターン",
+  "mapcond": "2w",
+  "stagecond": "2w",
+  "resetmode": -1,
+  "limit": "0,0,52,0,0,0,0,0"
+ },
+ {
+  "id": "11b",
+  "name_tw": "#02「恐怖婚宴」",
+  "name_jp": "#02「恐怖の披露宴」",
+  "resetmode": 1
+ },
+ {
+  "id": "11c",
+  "name_tw": "暑假的最後趕作業",
+  "name_jp": "夏の終わり、宿題",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "11d",
+  "name_tw": "密林的異變Ⅲ",
+  "name_jp": "密林の異変Ⅲ",
+  "mapcond": "2x",
+  "stagecond": "2x",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "11e",
+  "name_tw": "沙漠的怪事Ⅲ",
+  "name_jp": "砂漠の怪異Ⅲ",
+  "mapcond": "2y",
+  "stagecond": "2y",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "11f",
+  "name_tw": "火山的威脅Ⅲ",
+  "name_jp": "火山の脅威Ⅲ",
+  "mapcond": "2z",
+  "stagecond": "2z",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "11g",
+  "name_tw": "三途沼澤之王大降臨",
+  "name_jp": "三途の沼のヌシ大降臨",
+  "mapcond": "2n",
+  "stagecond": "2n",
+  "resetmode": -1
+ },
+ {
+  "id": "11h",
+  "name_tw": "機械反抗軍",
+  "name_jp": "機械の反乱軍",
+  "waitfortimer": "6小時",
+  "resetmode": 1
+ },
+ {
+  "id": "11i",
+  "name_tw": "極惡貓咪降臨",
+  "name_jp": "極悪のネコ降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11j",
+  "name_tw": "極惡坦克貓降臨",
+  "name_jp": "極悪のタンク降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11k",
+  "name_tw": "極惡戰鬥貓降臨",
+  "name_jp": "極悪のバトル降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11l",
+  "name_tw": "極惡噁心貓降臨",
+  "name_jp": "極悪のキモネコ降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11m",
+  "name_tw": "極惡牛貓降臨",
+  "name_jp": "極悪のウシ降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11n",
+  "name_tw": "極惡鳥貓降臨",
+  "name_jp": "極悪のトリ降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11o",
+  "name_tw": "極惡魚貓降臨",
+  "name_jp": "極悪のフィッシュ降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11p",
+  "name_tw": "極惡蜥蜴貓降臨",
+  "name_jp": "極悪のトカゲ降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11q",
+  "name_tw": "極惡巨神貓降臨",
+  "name_jp": "極悪の巨神降臨",
+  "mapcond": "1y",
+  "stagecond": "1y",
+  "resetmode": -1
+ },
+ {
+  "id": "11r",
+  "name_tw": "熱血！大隊接力",
+  "name_jp": "熱血！リレー大会",
+  "resetmode": 2
+ },
+ {
+  "id": "11s",
+  "name_tw": "第2章 ツボ洞窟の死闘",
+  "name_jp": "第2章 ツボ洞窟の死闘",
+  "resetmode": -1
+ },
+ {
+  "id": "11t",
+  "name_tw": "第5章 わんわん城の戦い",
+  "name_jp": "第5章 わんわん城の戦い",
+  "resetmode": -1,
+  "limit": "0,0,0,10,0,0,0,0|0,1,0,10,0,0,0,0|0,2,0,0,1,0,0,0|0,3,0,0,1,0,0,0|0,4,0,0,0,300,0,0|0,5,0,0,0,300,0,0|0,6,0,0,0,0,1200,0|0,7,0,0,0,0,1200,0|0,8,21,0,0,0,0,0"
+ },
+ {
+  "id": "11u",
+  "name_tw": "最終章 決戦！わんわん大王",
+  "name_jp": "最終章 決戦！わんわん大王",
+  "stagecond": 32,
+  "resetmode": -1
+ },
+ {
+  "id": "11v",
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "11w",
+  "name_tw": "第三晚 聖誕禮物二次投遞",
+  "name_jp": "第三夜  聖夜のプレゼント再配達",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 1
+ },
+ {
+  "id": "11x",
+  "name_tw": "2023年度最多演出敵人前五名！",
+  "name_jp": "2023年最多出演敵ベスト５！",
+  "resetmode": -1
+ },
+ {
+  "id": "11y",
+  "name_tw": "大雪汪汪",
+  "name_jp": "雪やわんわん",
+  "stagecond": "p",
+  "resetmode": 1
+ },
+ {
+  "id": "11z",
+  "name_tw": "決戰春節特賣會",
+  "name_jp": "春節セールの戦い",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": 120,
+  "name_tw": "9000萬下載紀念 HAPPY大禮！",
+  "name_jp": "9000万ダウンロード記念 ハッピープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": 121,
+  "name_tw": "厄災のわんわん王国",
+  "name_jp": "厄災のわんわん王国",
+  "stagecond": 33,
+  "resetmode": -1
+ },
+ {
+  "id": 122,
+  "name_tw": "生日禮物！",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": 123,
+  "name_tw": "8888万ダウンロード記念",
+  "name_jp": "8888万ダウンロード記念",
+  "resetmode": 0
+ },
+ {
+  "id": 124,
+  "name_tw": "週末蜜月旅行 第1週",
+  "name_jp": "週末ハネムーン 1週目",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": 125,
+  "name_tw": "週末蜜月旅行 第2週",
+  "name_jp": "週末ハネムーン 2週目",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": 126,
+  "name_tw": "週末蜜月旅行 最末週",
+  "name_jp": "週末ハネムーン 最終週",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": 127,
+  "name_tw": "絕・第一次的差事",
+  "name_jp": "絶・はじめてのお遣い",
+  "mapcond": 2640,
+  "stagecond": 2640,
+  "resetmode": -1,
+  "limit": "0,0,17,0,0,0,0,0"
+ },
+ {
+  "id": 128,
+  "name_tw": "極惡家族大亂鬥",
+  "name_jp": "大乱闘極悪ファミリーズ",
+  "mapcond": 34,
+  "stagecond": 34,
+  "resetmode": -1
+ },
+ {
+  "id": 129,
+  "name_tw": "阿龜與小孩",
+  "name_jp": "阿亀と赤子",
+  "mapcond": 38,
+  "stagecond": 35,
+  "resetmode": -1
+ },
+ {
+  "id": "12a",
+  "name_tw": "王子與死靈",
+  "name_jp": "王子と死霊",
+  "mapcond": 39,
+  "stagecond": 36,
+  "resetmode": -1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "12b",
+  "name_tw": "蜜江與聖者",
+  "name_jp": "蜜江と聖者",
+  "mapcond": "3a",
+  "stagecond": 37,
+  "resetmode": -1
+ },
+ {
+  "id": "12c",
+  "name_tw": "夏夜回家路",
+  "name_jp": "夏の夜、帰り道",
+  "resetmode": -1
+ },
+ {
+  "id": "12d",
+  "name_tw": "絕・聖者波普降臨",
+  "name_jp": "絶・聖者ポプウ降臨",
+  "mapcond": "263n",
+  "stagecond": "263n",
+  "resetmode": -1,
+  "limit": "0,0,12,0,0,0,0,0"
+ },
+ {
+  "id": "12e",
+  "name_tw": "叢林求生記",
+  "name_jp": "ジャングルサバイバル",
+  "resetmode": -1
+ },
+ {
+  "id": "12f",
+  "name_tw": "絕・古王妃飛來",
+  "name_jp": "絶・古王妃飛来",
+  "mapcond": "263o",
+  "stagecond": "263o",
+  "resetmode": -1,
+  "limit": "0,0,0,0,1,0,0,0"
+ },
+ {
+  "id": "12g",
+  "name_tw": "開眼叫賣貓來襲！",
+  "name_jp": "開眼のネコ屋台襲来！",
+  "mapcond": 8,
+  "stagecond": "2f6w",
+  "resetmode": -1
+ },
+ {
+  "id": "12h",
+  "name_jp": "天下統一への道 ～前編～",
+  "resetmode": -1,
+  "specialcond": "【軍資金制度】：戰鬥開始就可以獲得等同於軍資金的金錢，但相反地，隨著時間經過或打倒敵人時都無法增加金錢。初始軍資金是 4,500 元，破關（包含緊急關卡）獎勵可以增加軍資金（上限為 999,999 元）",
+  "invalid_combo": "無效聯組：初期工作狂貓等級、初期所持金額、工作狂貓的工作效率、工作狂貓錢包、會計能力"
+ },
+ {
+  "id": "12i",
+  "name_jp": "合戦！武将ニャンダム",
+  "stars": 100200,
+  "resetmode": -1,
+  "specialcond": "【軍資金制度】：戰鬥開始就可以獲得等同於軍資金的金錢，但相反地，隨著時間經過或打倒敵人時都無法增加金錢。初始軍資金是 4,500 元，破關（包含緊急關卡）獎勵可以增加軍資金（上限為 999,999 元）",
+  "invalid_combo": "無效聯組：初期工作狂貓等級、初期所持金額、工作狂貓的工作效率、工作狂貓錢包、會計能力"
+ },
+ {
+  "id": "12j",
+  "name_jp": "合戦！武将般若我王",
+  "stars": 100200,
+  "resetmode": -1,
+  "specialcond": "【軍資金制度】：戰鬥開始就可以獲得等同於軍資金的金錢，但相反地，隨著時間經過或打倒敵人時都無法增加金錢。初始軍資金是 4,500 元，破關（包含緊急關卡）獎勵可以增加軍資金（上限為 999,999 元）",
+  "invalid_combo": "無效聯組：初期工作狂貓等級、初期所持金額、工作狂貓的工作效率、工作狂貓錢包、會計能力"
+ },
+ {
+  "id": "12k",
+  "name_jp": "天下統一への道 ～後編～",
+  "resetmode": -1,
+  "specialcond": "【軍資金制度】：戰鬥開始就可以獲得等同於軍資金的金錢，但相反地，隨著時間經過或打倒敵人時都無法增加金錢。初始軍資金是 4,500 元，破關（包含緊急關卡）獎勵可以增加軍資金（上限為 999,999 元）",
+  "invalid_combo": "無效聯組：初期工作狂貓等級、初期所持金額、工作狂貓的工作效率、工作狂貓錢包、會計能力"
+ },
+ {
+  "id": "12l",
+  "name_jp": "決戦！反逆の戦国魔王",
+  "stars": 100200,
+  "stagecond": "3c",
+  "resetmode": -1,
+  "specialcond": "【軍資金制度】：戰鬥開始就可以獲得等同於軍資金的金錢，但相反地，隨著時間經過或打倒敵人時都無法增加金錢。初始軍資金是 4,500 元，破關（包含緊急關卡）獎勵可以增加軍資金（上限為 999,999 元）",
+  "invalid_combo": "無效聯組：初期工作狂貓等級、初期所持金額、工作狂貓的工作效率、工作狂貓錢包、會計能力"
+ },
+ {
+  "id": "12m",
+  "name_jp": "バースデープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "12n",
+  "name_tw": "超拳獸超派噴噴大降臨",
+  "name_jp": "超拳獣ブンナグリオス大降臨",
+  "mapcond": "265a",
+  "stagecond": "265b",
+  "resetmode": -1
+ },
+ {
+  "id": "12o",
+  "name_tw": "2024回憶相簿",
+  "name_jp": "2024年思い出アルバム",
+  "resetmode": -1
+ },
+ {
+  "id": "12p",
+  "name_jp": "絶・死霊妖精クオリネム降臨",
+  "mapcond": "263z",
+  "stagecond": "263z",
+  "resetmode": -1,
+  "limit": "0,0,0,0,0,0,1500,0"
+ },
+ {
+  "id": "12q",
+  "name_jp": "ネコヴァルキリー大試練",
+  "mapcond": 7,
+  "stagecond": 7,
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "12r",
+  "name_jp": "ネコムート大試練",
+  "mapcond": "3d",
+  "stagecond": "3d",
+  "flags": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "12s",
+  "name_jp": "1億ダウンロード記念 ハッピープレゼント！",
+  "resetmode": 0
+ },
+ {
+  "id": "12t",
+  "name_jp": "チョコサプ降臨",
+  "resetmode": 0
+ },
+ {
+  "id": "1jk",
+  "name_tw": "ふるさと自衛隊",
+  "name_jp": "ふるさと自衛隊",
+  "resetmode": -1
+ },
+ {
+  "id": "1jl",
+  "name_tw": "超魅惑公主",
+  "name_jp": "魅惑のプリンセス",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1jm",
+  "name_tw": "飛踢公主關卡",
+  "name_jp": "ケリ姫ステージ",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1jn",
+  "name_tw": "來自初期的使者",
+  "name_jp": "黎明期からの使者",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1jo",
+  "name_tw": "拡散性ミリオンアーサー",
+  "name_jp": "拡散性ミリオンアーサー",
+  "resetmode": -1
+ },
+ {
+  "id": "1jp",
+  "name_tw": "ドラゴンポーカー",
+  "name_jp": "ドラゴンポーカー",
+  "stars": 100150,
+  "resetmode": -1
+ },
+ {
+  "id": "1jq",
+  "name_tw": "大魔王降臨！？",
+  "name_jp": "ラスボス降臨!?",
+  "resetmode": -1
+ },
+ {
+  "id": "1jr",
+  "name_tw": "地獄級梅露可物語",
+  "name_jp": "地獄のメルクストーリア",
+  "stars": 100150200200,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1js",
+  "name_tw": "對決！梅露可物語",
+  "name_jp": "対決！メルクストーリア",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1jt",
+  "name_tw": "ドラゴンリーグ",
+  "name_jp": "ドラゴンリーグ",
+  "stars": 100150,
+  "resetmode": -1
+ },
+ {
+  "id": "1ju",
+  "name_tw": "超激突！氣志團！！",
+  "name_jp": "超激突！氣志團！！",
+  "stars": 100150,
+  "resetmode": -1
+ },
+ {
+  "id": "1jv",
+  "name_tw": "活下去! 曼波魚!!",
+  "name_jp": "生きろ！マンボウ！(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1jw",
+  "name_tw": "開眼Droid來襲！",
+  "name_jp": "開眼のドロイド襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1jx",
+  "name_tw": "消滅都市～第1章～",
+  "name_jp": "消滅都市 ～第１章～(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1jy",
+  "name_tw": "消滅都市～第2章～",
+  "name_jp": "消滅都市 ～第２章～(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1jz",
+  "name_tw": "消滅都市～第3章～",
+  "name_jp": "消滅都市 ～第３章～(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1k0",
+  "name_tw": "極道大戦争",
+  "name_jp": "極道大戦争",
+  "resetmode": -1
+ },
+ {
+  "id": "1k1",
+  "name_tw": "梅露可物語大反擊",
+  "name_jp": "逆襲のメルクストーリア(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1k2",
+  "name_tw": "開眼的癒術士來襲！",
+  "name_jp": "開眼の癒術士襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1k3",
+  "name_tw": "モンハン大狩猟クエスト",
+  "name_jp": "モンハン大狩猟クエスト",
+  "resetmode": -1
+ },
+ {
+  "id": "1k4",
+  "name_tw": "【緊急】モンハン大狩猟クエスト",
+  "name_jp": "【緊急】モンハン大狩猟クエスト",
+  "resetmode": -1
+ },
+ {
+  "id": "1k5",
+  "name_tw": "METAL SLUG DEFENSE 越南大戰",
+  "name_jp": "メタルスラッグディフェンス",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1k6",
+  "name_tw": "METAL SLUG DEFENSE 超級越南大戰",
+  "name_jp": "超メタルスラッグディフェンス",
+  "stars": 100150200200,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1k7",
+  "name_tw": "神略！ゆるドラシル",
+  "name_jp": "神略！ゆるドラシル",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1k8",
+  "name_tw": "城與龍",
+  "name_jp": "城とドラゴン",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "1k9",
+  "name_tw": "開眼的城與龍",
+  "name_jp": "開眼の城とドラゴン",
+  "resetmode": -1
+ },
+ {
+  "id": "1ka",
+  "name_tw": "固若金湯的城與龍",
+  "name_jp": "難攻不落の城とドラゴン",
+  "stars": 100150200250,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1kb",
+  "name_tw": "バースデープレゼント！",
+  "name_jp": "まもるよネコさん",
+  "resetmode": -1
+ },
+ {
+  "id": "1kc",
+  "name_tw": "開眼的拓也與小雪",
+  "name_jp": "開眼のタクヤとユキ(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1kd",
+  "name_tw": "來自菇菇的戰帖",
+  "name_jp": "なめこからの挑戦状",
+  "resetmode": -1
+ },
+ {
+  "id": "1ke",
+  "name_tw": "ふてたネコあらわる",
+  "name_jp": "ふてたネコあらわる",
+  "resetmode": -1
+ },
+ {
+  "id": "1kf",
+  "name_tw": "魔法少女小圓",
+  "name_jp": "魔法少女まどか☆マギカ",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1kg",
+  "name_tw": "魔女的結界",
+  "name_jp": "魔女の結界",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1kh",
+  "name_tw": "魔女的結界",
+  "name_jp": "魔女の結界",
+  "stars": 100200300,
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,3"
+ },
+ {
+  "id": "1ki",
+  "name_tw": "魔女的結界",
+  "name_jp": "魔女の結界",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1kj",
+  "name_tw": "魔女之夜",
+  "name_jp": "ワルプルギスの夜",
+  "resetmode": -1
+ },
+ {
+  "id": "1kk",
+  "name_tw": "突撃！キャットバスターズ",
+  "name_jp": "突撃！キャットバスターズ",
+  "resetmode": -1
+ },
+ {
+  "id": "1kl",
+  "name_tw": "開眼的歌謠貓來襲！",
+  "name_jp": "開眼の歌謡にゃんこ襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1km",
+  "name_tw": "PIKO太郎",
+  "name_jp": "ピコ太郎",
+  "resetmode": -1
+ },
+ {
+  "id": "1kn",
+  "name_tw": "追逐夢想男偶像",
+  "name_jp": "TWその２",
+  "resetmode": -1
+ },
+ {
+  "id": "1ko",
+  "name_tw": "ナゾのウサギ登場!?",
+  "name_jp": "ナゾのウサギ登場!?",
+  "resetmode": -1
+ },
+ {
+  "id": "1kp",
+  "name_tw": "ALICE的入口",
+  "name_jp": "ALICEの入り口",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1kq",
+  "name_tw": "月夜古城",
+  "name_jp": "月夜のオールドシティ",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1kr",
+  "name_tw": "開眼飛踢公主來襲！",
+  "name_jp": "開眼のケリ姫襲来！",
+  "resetmode": 1
+ },
+ {
+  "id": "1ks",
+  "name_tw": "開眼飛踢睡美人來襲！",
+  "name_jp": "開眼の眠れるケリの美女襲来！",
+  "resetmode": 1
+ },
+ {
+  "id": "1kt",
+  "name_tw": "失去世界",
+  "name_jp": "失われし世界(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1ku",
+  "name_tw": "開眼的梅露可來襲！",
+  "name_jp": "開眼のメルク襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1kv",
+  "name_tw": "開眼的推推來襲！",
+  "name_jp": "開眼のティティ襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1kw",
+  "name_tw": "神秘的梅露可物語",
+  "name_jp": "神秘のメルクストーリア(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1kx",
+  "name_tw": "軟爛中",
+  "name_jp": "ぐでぐでしてます",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1ky",
+  "name_tw": "反正遲早都會被吃",
+  "name_jp": "どうせ食べられるだけだし",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1kz",
+  "name_tw": "貓奴大王",
+  "name_jp": "ＴＷその３",
+  "resetmode": -1
+ },
+ {
+  "id": "1l0",
+  "name_tw": "聖杯戰爭的緣起",
+  "name_jp": "聖杯戦争の始まり",
+  "stars": 100200300300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1l1",
+  "name_tw": "激鬥！Saber來襲！",
+  "name_jp": "激闘！セイバー襲来！",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1l2",
+  "name_tw": "激鬥！Lancer來襲！",
+  "name_jp": "激闘！ランサー襲来！",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1l3",
+  "name_tw": "激鬥！Archer來襲！",
+  "name_jp": "激闘！アーチャー襲来！",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1l4",
+  "name_tw": "激鬥！Rider來襲！",
+  "name_jp": "激闘！ライダー襲来！",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1l5",
+  "name_tw": "大激鬥！Gilgamesh來襲！",
+  "name_jp": "大激闘！ギルガメッシュ襲来！",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1l6",
+  "name_tw": "實況野球高校 2年級的夏天",
+  "name_jp": "パワフル高校2年の夏",
+  "resetmode": -1
+ },
+ {
+  "id": "1l7",
+  "name_tw": "來自沒問題博士的戰帖",
+  "name_jp": "ダイジョーブ博士の挑戦状",
+  "resetmode": -1
+ },
+ {
+  "id": "1l8",
+  "name_tw": "約會戰 貓塚花凜",
+  "name_jp": "デートステージ 猫塚かりん",
+  "resetmode": -1
+ },
+ {
+  "id": "1l9",
+  "name_tw": "約會戰 紺野美崎",
+  "name_jp": "デートステージ 紺野美崎",
+  "resetmode": -1
+ },
+ {
+  "id": "1la",
+  "name_tw": "約會戰 虹谷彩理",
+  "name_jp": "デートステージ 虹谷彩理",
+  "resetmode": -1
+ },
+ {
+  "id": "1lb",
+  "name_tw": "約會戰 片桐戀",
+  "name_jp": "デートステージ 片桐恋",
+  "resetmode": -1
+ },
+ {
+  "id": "1lc",
+  "name_tw": "來自懶得鳥你的戰帖",
+  "name_jp": "つくね荘からの挑戦状",
+  "resetmode": -1
+ },
+ {
+  "id": "1ld",
+  "name_tw": "出擊！EVANGELION",
+  "name_jp": "発進！エヴァンゲリオン",
+  "stars": 100200300400,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1le",
+  "name_tw": "決戰！屋島作戰",
+  "name_jp": "決戦！ヤシマ作戦",
+  "stars": 100200300400,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1lf",
+  "name_tw": "第9使徒，來襲",
+  "name_jp": "第９の使徒、襲来(旧)",
+  "stars": 100200300400,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1lg",
+  "name_tw": "第10使徒，來襲",
+  "name_jp": "第１０の使徒、襲来(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1lh",
+  "name_tw": "波兔森林的朋友們",
+  "name_jp": "ポコ森の仲間たち",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1li",
+  "name_tw": "好友3人行",
+  "name_jp": "仲良し３人組",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1lj",
+  "name_tw": "太秦萌の通学",
+  "name_jp": "太秦萌の通学",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1lk",
+  "name_tw": "松賀咲の通学",
+  "name_jp": "松賀咲の通学",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1ll",
+  "name_tw": "小野ミサの通学",
+  "name_jp": "小野ミサの通学",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1lm",
+  "name_tw": "地下鉄に乗るっ",
+  "name_jp": "地下鉄に乗るっ",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1ln",
+  "name_tw": "魂體之都",
+  "name_jp": "タマシイの都(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1lo",
+  "name_tw": "哥現在很忙",
+  "name_jp": "ぐでぐでしてて忙しい",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1lp",
+  "name_tw": "開眼蛋黃貓來襲！",
+  "name_jp": "開眼のぐでたまにゃんこ襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1lq",
+  "name_tw": "城與龍 VS 城與龍",
+  "name_jp": "城ドラ VS 城ドラ",
+  "stars": 100115130,
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,1"
+ },
+ {
+  "id": "1lr",
+  "name_tw": "賤萌地激烈擺動白熊",
+  "name_jp": "キモ激しく動くクマ",
+  "resetmode": -1
+ },
+ {
+  "id": "1ls",
+  "name_tw": "飛踢王國的教導",
+  "name_jp": "ケットバス王国の教え",
+  "stars": 100150170200,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1lt",
+  "name_tw": "虛假的見瀧原",
+  "name_jp": "偽りの見滝原",
+  "stagecond": "26qb",
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,2"
+ },
+ {
+  "id": "1lu",
+  "name_tw": "女王失控",
+  "name_jp": "女王暴走",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1lv",
+  "name_tw": "ヒカキン降臨",
+  "name_jp": "ヒカキン降臨",
+  "resetmode": -1
+ },
+ {
+  "id": "1lw",
+  "name_tw": "開眼のヒカキン襲来！",
+  "name_jp": "開眼のヒカキン襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1lx",
+  "name_tw": "梅露可物語大反擊",
+  "name_jp": "逆襲のメルクストーリア",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1ly",
+  "name_tw": "神秘的梅露可物語",
+  "name_jp": "神秘のメルクストーリア",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "0,0,7,0,0,0,0,0|0,1,0,0,1,0,0,0|0,2,0,0,0,0,3000,0|1,0,7,0,0,0,0,0|1,1,0,0,1,0,0,0|1,2,0,0,0,0,3000,0|2,0,7,0,0,0,0,0|2,1,0,0,1,0,0,0|2,2,0,0,0,0,3000,0|3,0,7,10,0,0,0,0|3,1,0,10,1,0,0,0|3,2,0,10,0,0,3000,0"
+ },
+ {
+  "id": "1lz",
+  "name_tw": "超激鬥！Saber Alter來襲！",
+  "name_jp": "超激闘！セイバーオルタ襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1m0",
+  "name_tw": "活下去！曼波魚！",
+  "name_jp": "生きろ！マンボウ！",
+  "stars": 100200300400,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1m1",
+  "name_tw": "3億條的夥伴都死掉了",
+  "name_jp": "３億匹の仲間はみな死んだ",
+  "stars": 100200300300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1m2",
+  "name_tw": "開眼三原慧悟來襲！",
+  "name_jp": "開眼の三原慧悟襲来",
+  "resetmode": -1
+ },
+ {
+  "id": "1m3",
+  "name_tw": "和麻吉貓一起寶島趴趴走！",
+  "name_jp": "Majimeowと一緒に台湾を巡ろう！",
+  "resetmode": -1
+ },
+ {
+  "id": "1m4",
+  "name_tw": "聖魔大戰勃發！",
+  "name_jp": "聖魔大戦勃発！",
+  "stars": 100200300300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1m5",
+  "name_tw": "聖魔大戰巧克力",
+  "name_jp": "ビックリマンチョコ",
+  "resetmode": 1
+ },
+ {
+  "id": "1m6",
+  "name_tw": "對決！魔幻原型",
+  "name_jp": "対決！魔幻モデル",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "1m7",
+  "name_tw": "覺醒！大和爆神",
+  "name_jp": "覚醒！ヤマト爆神",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "1m8",
+  "name_tw": "ゆる～い！ねこ娘襲来！",
+  "name_jp": "ゆる～い！ねこ娘襲来！",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1m9",
+  "name_tw": "ゆる～いゲゲゲの鬼太郎",
+  "name_jp": "ゆる～いゲゲゲの鬼太郎",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1ma",
+  "name_tw": "消滅都市～失落的世界～",
+  "name_jp": "消滅都市 ～ロストへ～(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1mb",
+  "name_tw": "天上世界",
+  "name_jp": "天上の世界(旧)",
+  "stars": 100200300,
+  "resetmode": -1,
+  "limit": "-1,0,0,0,1,0,0,0|-1,1,0,15,0,0,0,0|-1,2,13,0,0,0,0,0"
+ },
+ {
+  "id": "1mc",
+  "name_tw": "激鬥！甜點大戰爭",
+  "name_jp": "激闘！スイーツ大戦争",
+  "stars": 100150200100,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1md",
+  "name_tw": "開眼巧克力來襲！",
+  "name_jp": "開眼のチョコレート襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1me",
+  "name_tw": "第13號機，來襲",
+  "name_jp": "第１３号機、襲来(旧)",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1mf",
+  "name_tw": "高雄捷運 紅線",
+  "name_jp": "高雄MRT レッドライン",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1mg",
+  "name_tw": "高雄捷運 橘線",
+  "name_jp": "高雄MRT オレンジライン",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1mh",
+  "name_tw": "戽斗星球",
+  "name_jp": "シャクレルプラネット",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1mi",
+  "name_tw": "ドットヒーローズ",
+  "name_jp": "ドットヒーローズ",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1mj",
+  "name_tw": "快打旋風EASY",
+  "name_jp": "ストリートファイター EASY(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mk",
+  "name_tw": "快打旋風NORMAL",
+  "name_jp": "ストリートファイター NORMAL(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1ml",
+  "name_tw": "快打旋風HARD",
+  "name_jp": "ストリートファイター HARD(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mm",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mn",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mo",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mp",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mq",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mr",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1ms",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mt",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mu",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mv",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mw",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mx",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1my",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1mz",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1n0",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger(旧)",
+  "mapcond": "l",
+  "stagecond": "l",
+  "resetmode": -1
+ },
+ {
+  "id": "1n1",
+  "name_tw": "７周年★東京スカイツリー",
+  "name_jp": "７周年★東京スカイツリー",
+  "resetmode": -1
+ },
+ {
+  "id": "1n2",
+  "name_tw": "初音未來",
+  "name_jp": "初音ミク",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1n3",
+  "name_tw": "MIKU EXPO",
+  "name_jp": "MIKU EXPO",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "1n4",
+  "name_tw": "MIKU CHERRY",
+  "name_jp": "MIKU CHERRY",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1n5",
+  "name_tw": "歌后曼波魚崎A・Y・U 強襲！",
+  "name_jp": "ハマンボ崎あゆみ 強襲！(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "1n6",
+  "name_tw": "MIKU EXPO",
+  "name_jp": "MIKU EXPO（韓国版）",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1n7",
+  "name_tw": "MIKU CHERRY",
+  "name_jp": "MIKU CHERRY（韓国版）",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1n8",
+  "name_tw": "貓咪大怪盜",
+  "name_jp": "にゃんこ大泥棒",
+  "resetmode": -1
+ },
+ {
+  "id": "1n9",
+  "name_tw": "U.F.O.襲来！",
+  "name_jp": "U.F.O.襲来！",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1na",
+  "name_tw": "初音未來的誕生日！",
+  "name_jp": "初音ミクの誕生日！",
+  "resetmode": 0
+ },
+ {
+  "id": "1nb",
+  "name_tw": "快打旋風EASY",
+  "name_jp": "ストリートファイター EASY",
+  "resetmode": 1
+ },
+ {
+  "id": "1nc",
+  "name_tw": "快打旋風NORMAL",
+  "name_jp": "ストリートファイター NORMAL",
+  "resetmode": 1
+ },
+ {
+  "id": "1nd",
+  "name_tw": "快打旋風HARD",
+  "name_jp": "ストリートファイター HARD",
+  "resetmode": 1
+ },
+ {
+  "id": "1ne",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nf",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ng",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nh",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ni",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nj",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nk",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nl",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nm",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nn",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1no",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1np",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nq",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nr",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ns",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nt",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nu",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nv",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nw",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nx",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ny",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1nz",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1o0",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1o1",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1o2",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "mapcond": "l",
+  "stagecond": "l",
+  "resetmode": 1
+ },
+ {
+  "id": "1o3",
+  "name_tw": "SNOW MIKU",
+  "name_jp": "SNOW MIKU",
+  "stars": 100150200,
+  "resetmode": 1
+ },
+ {
+  "id": "1o4",
+  "name_tw": "波亂！天道道場",
+  "name_jp": "波乱！天道道場",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1o5",
+  "name_tw": "傳說的咒泉鄉",
+  "name_jp": "伝説の呪泉郷",
+  "stars": 100150200300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1o6",
+  "name_tw": "消滅都市～失落的世界～",
+  "name_jp": "消滅都市 ～ロストへ～",
+  "stars": 100200300,
+  "resetmode": 1
+ },
+ {
+  "id": "1o7",
+  "name_tw": "開眼的拓也與小雪",
+  "name_jp": "開眼のタクヤとユキ",
+  "resetmode": -1
+ },
+ {
+  "id": "1o8",
+  "name_tw": "失去世界",
+  "name_jp": "失われし世界",
+  "stars": 100200300,
+  "resetmode": 1
+ },
+ {
+  "id": "1o9",
+  "name_tw": "魂體之都",
+  "name_jp": "タマシイの都",
+  "stars": 100200300150,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1oa",
+  "name_tw": "天上世界",
+  "name_jp": "天上の世界",
+  "stars": 100200300,
+  "resetmode": 1,
+  "limit": "-1,0,0,0,1,0,0,0|-1,1,0,15,0,0,0,0|-1,2,13,0,0,0,0,0"
+ },
+ {
+  "id": "1ob",
+  "name_tw": "決戰！巨大生物哥吉拉",
+  "name_jp": "決戦！巨大生物ゴジラ",
+  "resetmode": -1
+ },
+ {
+  "id": "1oc",
+  "name_tw": "哥吉拉對貓咪",
+  "name_jp": "ゴジラ対にゃんこ",
+  "resetmode": -1
+ },
+ {
+  "id": "1od",
+  "name_tw": "成為魔法少女吧！",
+  "name_jp": "魔法少女になってよ",
+  "stars": 100200300300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1oe",
+  "name_tw": "續・成為魔法少女吧！",
+  "name_jp": "続・魔法少女になってよ",
+  "stars": 100200300300,
+  "resetmode": 1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1of",
+  "name_tw": "魔女的結界～玫瑰園的魔女～",
+  "name_jp": "魔女の結界 ～薔薇園の魔女～(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1og",
+  "name_tw": "魔女的結界～零食的魔女～",
+  "name_jp": "魔女の結界 ～お菓子の魔女～(旧)",
+  "stars": 100150200,
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,3"
+ },
+ {
+  "id": "1oh",
+  "name_tw": "魔女的結界～箱的魔女～",
+  "name_jp": "魔女の結界 ～ハコの魔女～(旧)",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1oi",
+  "name_tw": "胡桃鉗魔女",
+  "name_jp": "くるみ割りの魔女",
+  "resetmode": 1,
+  "limit": "-1,-1,0,0,0,0,0,2"
+ },
+ {
+  "id": "1oj",
+  "name_tw": "秋華賞（ＧⅠ）",
+  "name_jp": "秋華賞（ＧⅠ）",
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,4"
+ },
+ {
+  "id": "1ok",
+  "name_tw": "菊花賞（ＧⅠ）",
+  "name_jp": "菊花賞（ＧⅠ）",
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,4"
+ },
+ {
+  "id": "1ol",
+  "name_tw": "天皇賞（秋）（ＧⅠ）",
+  "name_jp": "天皇賞（秋）（ＧⅠ）",
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,4"
+ },
+ {
+  "id": "1om",
+  "name_tw": "有馬記念（ＧⅠ）",
+  "name_jp": "有馬記念（ＧⅠ）",
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,4"
+ },
+ {
+  "id": "1on",
+  "name_tw": "高雄捷運 紅線",
+  "name_jp": "高雄メトロ レッドライン",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1oo",
+  "name_tw": "高雄輕軌",
+  "name_jp": "高雄ライトレール",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1op",
+  "name_tw": "協賛BitSummit記念！",
+  "name_jp": "協賛BitSummit記念！",
+  "resetmode": 1
+ },
+ {
+  "id": "1oq",
+  "name_tw": "對決！玉狛第2的隊長",
+  "name_jp": "対決！玉狛第２のリーダー",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1or",
+  "name_tw": "對決！玉狛第2的王牌",
+  "name_jp": "対決！玉狛第２のエース",
+  "stars": 100150200300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1os",
+  "name_tw": "VS訓練用莫爾默德",
+  "name_jp": "VS訓練用モールモッド",
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,7"
+ },
+ {
+  "id": "1ot",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ou",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ov",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ow",
+  "name_tw": "New Challenger",
+  "name_jp": "New Challenger",
+  "resetmode": -1
+ },
+ {
+  "id": "1ox",
+  "name_tw": "快打旋風  VERY HARD",
+  "name_jp": "ストリートファイター VERY HARD",
+  "mapcond": "26tu",
+  "stagecond": "26tu",
+  "resetmode": -1
+ },
+ {
+  "id": "1oy",
+  "name_tw": "激鬥！Saber來襲！",
+  "name_jp": "激闘！セイバー襲来！",
+  "stars": 100200300300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1oz",
+  "name_tw": "激鬥！Lancer來襲！",
+  "name_jp": "激闘！ランサー襲来！",
+  "stars": 100200300300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1p0",
+  "name_tw": "激鬥！Archer來襲！",
+  "name_jp": "激闘！アーチャー襲来！",
+  "stars": 100200300300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1p1",
+  "name_tw": "激鬥！Rider來襲！",
+  "name_jp": "激闘！ライダー襲来！",
+  "stars": 100200300300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1p2",
+  "name_tw": "大激鬥！Gilgamesh來襲！",
+  "name_jp": "大激闘！ギルガメッシュ襲来！",
+  "stars": 100200250250,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1p3",
+  "name_tw": "救出！にゃんこ仮面ライダー",
+  "name_jp": "救出！にゃんこ仮面ライダー",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1p4",
+  "name_tw": "救出！ゴジラにゃんこ",
+  "name_jp": "救出！ゴジラにゃんこ",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1p5",
+  "name_tw": "救出！エヴァンゲリオンにゃんこ",
+  "name_jp": "救出！エヴァンゲリオンにゃんこ",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1p6",
+  "name_tw": "救出！ウルトラマンにゃんこ",
+  "name_jp": "救出！ウルトラマンにゃんこ",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1p7",
+  "name_tw": "シン・にゃんこ・ヒーローズ",
+  "name_jp": "シン・にゃんこ・ヒーローズ",
+  "stagecond": 1,
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,8"
+ },
+ {
+  "id": "1p8",
+  "name_tw": "開眼的紅髮小雪貓來襲！",
+  "name_jp": "開眼の赤髪のゆきにゃん襲来！",
+  "resetmode": -1
+ },
+ {
+  "id": "1p9",
+  "name_tw": "第9使徒，來襲",
+  "name_jp": "第９の使徒、襲来",
+  "stars": 100200300300,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1pa",
+  "name_tw": "第10使徒，來襲",
+  "name_jp": "第１０の使徒、襲来",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1pb",
+  "name_tw": "EVA第13號機，來襲",
+  "name_jp": "エヴァ第１３号機、襲来",
+  "stars": 100200300,
+  "resetmode": -1
+ },
+ {
+  "id": "1pc",
+  "name_tw": "最終決戰　EVA第13號機",
+  "name_jp": "最終決戦　エヴァ第１３号機",
+  "resetmode": -1
+ },
+ {
+  "id": "1pd",
+  "name_tw": "再見了，所有的貓咪。",
+  "name_jp": "さらば、全てのにゃんこ。",
+  "resetmode": -1,
+  "limit": "-1,-1,0,0,0,0,0,9"
+ },
+ {
+  "id": "1pe",
+  "name_tw": "週末演唱會 第1天",
+  "name_jp": "週末ライブ DAY1",
+  "resetmode": -1
+ },
+ {
+  "id": "1pf",
+  "name_tw": "週末演唱會 第2天",
+  "name_jp": "週末ライブ DAY2",
+  "stagecond": "26v6",
+  "resetmode": -1
+ },
+ {
+  "id": "1pg",
+  "name_tw": "週末ライブ DAY1（韓国版専用）",
+  "name_jp": "週末ライブ DAY1（韓国版専用）",
+  "resetmode": -1
+ },
+ {
+  "id": "1ph",
+  "name_tw": "週末ライブ DAY2（韓国版専用）",
+  "name_jp": "週末ライブ DAY2（韓国版専用）",
+  "stagecond": "26v8",
+  "resetmode": -1
+ },
+ {
+  "id": "1pi",
+  "name_tw": "以諾時代",
+  "name_jp": "以諾時代",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1pj",
+  "name_tw": "對決！瘋頭！",
+  "name_jp": "対決！瘋頭！",
+  "stars": 100150200,
+  "resetmode": -1
+ },
+ {
+  "id": "1pk",
+  "name_tw": "神劍闖江湖",
+  "name_jp": "るろうに剣心",
+  "stars": 100150200200,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1pl",
+  "name_tw": "劍心・緋村拔刀齋",
+  "name_jp": "剣心・緋村抜刀斎",
+  "stars": 100150,
+  "resetmode": -1
+ },
+ {
+  "id": "1pm",
+  "name_tw": "從事打手的男人・相樂左之助",
+  "name_jp": "喧嘩の男・相楽左之助",
+  "stars": 100150,
+  "waitfortimer": "6小時",
+  "resetmode": -1
+ },
+ {
+  "id": "1pn",
+  "name_tw": "顯露敵意的狼・齋藤一",
+  "name_jp": "牙を剥く狼・斎藤一",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "1po",
+  "name_tw": "魔女的結界～玫瑰園的魔女～",
+  "name_jp": "魔女の結界 ～薔薇園の魔女～",
+  "stars": 100150200200,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "1pp",
+  "name_tw": "魔女的結界～零食的魔女～",
+  "name_jp": "魔女の結界 ～お菓子の魔女～",
+  "stars": 100150200200,
+  "resetmode": -1,
+  "limit": "0,-1,0,0,0,0,0,3|1,-1,0,0,0,0,0,3|2,-1,0,0,0,0,0,3|3,-1,6,0,0,0,0,3"
+ },
+ {
+  "id": "1pq",
+  "name_tw": "魔女的結界～箱的魔女～",
+  "name_jp": "魔女の結界 ～ハコの魔女～",
+  "stars": 100150200200,
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "2bc",
+  "name_tw": "世界篇 第1章 不死生物來襲",
+  "name_jp": "日本編 第1章 ゾンビ",
+  "resetmode": -1
+ },
+ {
+  "id": "2bd",
+  "name_tw": "世界篇 第2章 不死生物來襲",
+  "name_jp": "日本編 第2章 ゾンビ",
+  "resetmode": -1
+ },
+ {
+  "id": "2be",
+  "name_tw": "世界篇 第3章 不死生物來襲",
+  "name_jp": "日本編 第3章 ゾンビ",
+  "resetmode": -1
+ },
+ {
+  "id": "2bf",
+  "name_tw": "未来篇 第1章",
+  "name_jp": "未来編 第1章",
+  "resetmode": -1
+ },
+ {
+  "id": "2bg",
+  "name_tw": "未来篇 第2章",
+  "name_jp": "未来編 第2章",
+  "resetmode": -1
+ },
+ {
+  "id": "2bh",
+  "name_tw": "未来篇 第3章",
+  "name_jp": "未来編 第3章",
+  "resetmode": -1
+ },
+ {
+  "id": "2bi",
+  "name_tw": "宇宙篇 第1章",
+  "name_jp": "宇宙編 第1章",
+  "resetmode": -1,
+  "limit": "0,1,61,0,0,0,0,0|0,2,61,0,0,0,0,0|0,3,0,0,0,300,0,0|0,4,0,0,0,300,0,0|0,5,0,20,0,0,0,0|0,6,0,20,0,0,0,0|0,7,0,0,1,0,0,0|0,8,0,0,1,0,0,0|0,10,51,0,0,0,0,0|0,11,51,0,0,0,0,0|0,12,51,0,0,0,0,0|0,13,0,0,0,0,4000,0|0,14,0,0,0,0,4000,0|0,15,0,0,0,0,4000,0|0,16,0,20,0,0,0,0|0,17,0,20,0,0,0,0|0,18,0,20,0,0,0,0|0,19,0,0,1,0,0,0|0,20,0,0,1,0,0,0|0,21,0,0,1,0,0,0|0,23,14,0,0,0,0,0|0,24,14,0,0,0,0,0|0,25,14,0,0,0,0,0|0,26,0,0,0,0,1200,0|0,27,0,0,0,0,1200,0|0,28,0,0,0,0,1200,0|0,29,0,15,0,0,0,0|0,30,0,15,0,0,0,0|0,31,0,15,0,0,0,0|0,32,0,0,1,0,0,0|0,33,0,0,1,0,0,0|0,35,2,0,0,0,0,0|0,36,2,0,0,0,0,0|0,37,2,0,0,0,0,0|0,38,0,0,0,1200,0,0|0,39,0,0,0,1200,0,0|0,40,0,0,0,1200,0,0|0,41,0,10,0,0,0,0|0,42,0,10,0,0,0,0|0,43,0,10,0,0,0,0|0,44,0,0,1,0,0,0|0,45,0,0,1,0,0,0|0,46,54,10,0,0,0,0"
+ },
+ {
+  "id": "2bj",
+  "name_tw": "宇宙篇 第2章",
+  "name_jp": "宇宙編 第2章",
+  "resetmode": -1,
+  "limit": "0,1,61,0,0,0,0,0|0,2,61,0,0,0,0,0|0,3,0,0,0,300,0,0|0,4,0,0,0,300,0,0|0,5,0,20,0,0,0,0|0,6,0,20,0,0,0,0|0,7,0,0,1,0,0,0|0,8,0,0,1,0,0,0|0,10,51,0,0,0,0,0|0,11,51,0,0,0,0,0|0,12,51,0,0,0,0,0|0,13,0,0,0,0,4000,0|0,14,0,0,0,0,4000,0|0,15,0,0,0,0,4000,0|0,16,0,20,0,0,0,0|0,17,0,20,0,0,0,0|0,18,0,20,0,0,0,0|0,19,0,0,1,0,0,0|0,20,0,0,1,0,0,0|0,21,0,0,1,0,0,0|0,23,14,0,0,0,0,0|0,24,14,0,0,0,0,0|0,25,14,0,0,0,0,0|0,26,0,0,0,0,1200,0|0,27,0,0,0,0,1200,0|0,28,0,0,0,0,1200,0|0,29,0,15,0,0,0,0|0,30,0,15,0,0,0,0|0,31,0,15,0,0,0,0|0,32,0,0,1,0,0,0|0,33,0,0,1,0,0,0|0,35,2,0,0,0,0,0|0,36,2,0,0,0,0,0|0,37,2,0,0,0,0,0|0,38,0,0,0,1200,0,0|0,39,0,0,0,1200,0,0|0,40,0,0,0,1200,0,0|0,41,0,10,0,0,0,0|0,42,0,10,0,0,0,0|0,43,0,10,0,0,0,0|0,44,0,0,1,0,0,0|0,45,0,0,1,0,0,0|0,46,54,10,0,0,0,0"
+ },
+ {
+  "id": "2bk",
+  "name_tw": "宇宙篇 第3章",
+  "name_jp": "宇宙編 第3章",
+  "resetmode": -1,
+  "limit": "0,1,61,0,0,0,0,0|0,2,61,0,0,0,0,0|0,3,0,0,0,300,0,0|0,4,0,0,0,300,0,0|0,5,0,20,0,0,0,0|0,6,0,20,0,0,0,0|0,7,0,0,1,0,0,0|0,8,0,0,1,0,0,0|0,10,51,0,0,0,0,0|0,11,51,0,0,0,0,0|0,12,51,0,0,0,0,0|0,13,0,0,0,0,4000,0|0,14,0,0,0,0,4000,0|0,15,0,0,0,0,4000,0|0,16,0,20,0,0,0,0|0,17,0,20,0,0,0,0|0,18,0,20,0,0,0,0|0,19,0,0,1,0,0,0|0,20,0,0,1,0,0,0|0,21,0,0,1,0,0,0|0,23,14,0,0,0,0,0|0,24,14,0,0,0,0,0|0,25,14,0,0,0,0,0|0,26,0,0,0,0,1200,0|0,27,0,0,0,0,1200,0|0,28,0,0,0,0,1200,0|0,29,0,15,0,0,0,0|0,30,0,15,0,0,0,0|0,31,0,15,0,0,0,0|0,32,0,0,1,0,0,0|0,33,0,0,1,0,0,0|0,35,2,0,0,0,0,0|0,36,2,0,0,0,0,0|0,37,2,0,0,0,0,0|0,38,0,0,0,1200,0,0|0,39,0,0,0,1200,0,0|0,40,0,0,0,1200,0,0|0,41,0,10,0,0,0,0|0,42,0,10,0,0,0,0|0,43,0,10,0,0,0,0|0,44,0,0,1,0,0,0|0,45,0,0,1,0,0,0|0,46,54,10,0,0,0,0"
+ },
+ {
+  "id": "2bl",
+  "name_tw": "世界篇",
+  "name_jp": "日本編",
+  "stars": 100150400
+ },
+ {
+  "id": "2bm",
+  "name_tw": "未来篇 第1章 不死生物來襲",
+  "name_jp": "未来編 第1章 ゾンビ"
+ },
+ {
+  "id": "2bn",
+  "name_tw": "議事阻撓",
+  "name_jp": "フィリバスター襲来"
+ },
+ {
+  "id": "2bo",
+  "name_tw": "未来篇 第2章 不死生物來襲",
+  "name_jp": "未来編 第2章 ゾンビ"
+ },
+ {
+  "id": "2bp",
+  "name_tw": "未来篇 第3章 不死生物來襲",
+  "name_jp": "未来編 第3章 ゾンビ"
+ },
+ {
+  "id": "2bq",
+  "name_tw": "魔界篇",
+  "name_jp": "魔界編",
+  "mapcond": 2650,
+  "stagecond": 2650
+ },
+ {
+  "id": "2br",
+  "name_tw": "宇宙篇 第1章 不死生物來襲",
+  "name_jp": "宇宙編 第1章 ゾンビ",
+  "limit": "0,0,0,10,0,0,0,0|0,1,0,10,0,0,0,0|0,2,0,10,0,0,0,0|0,3,0,10,0,0,0,0|0,4,0,15,0,0,0,0|0,5,0,15,0,0,0,0|0,6,0,15,0,0,0,0|0,7,0,15,0,0,0,0|0,8,0,5,0,0,0,0|0,9,0,10,0,0,0,0|0,10,0,10,0,0,0,0|0,11,0,15,0,0,0,0|0,12,0,15,0,0,0,0|0,13,0,15,0,0,0,0|0,14,0,15,0,0,0,0|0,15,0,5,0,0,0,0|0,16,0,10,0,0,0,0|0,17,0,10,0,0,0,0|0,18,0,10,0,0,0,0|0,19,0,15,0,0,0,0|0,20,0,15,0,0,0,0|0,21,0,15,0,0,0,0|0,22,0,10,0,0,0,0|0,23,0,10,0,0,0,0|0,24,0,10,0,0,0,0|0,25,0,10,0,0,0,0|0,26,0,15,0,0,0,0|0,27,0,15,0,0,0,0|0,28,0,15,0,0,0,0|0,29,0,10,0,0,0,0|0,30,0,10,0,0,0,0|0,31,0,10,0,0,0,0|0,32,0,10,0,0,0,0|0,33,0,15,0,0,0,0|0,34,0,15,0,0,0,0|0,35,0,15,0,0,0,0|0,36,0,5,0,0,0,0|0,37,0,10,0,0,0,0|0,38,0,10,0,0,0,0|0,39,0,10,0,0,0,0|0,40,0,15,0,0,0,0|0,41,0,10,0,0,0,0|0,42,0,10,0,0,0,0|0,43,0,10,0,0,0,0|0,44,0,10,0,0,0,0|0,45,0,15,0,0,0,0|0,46,0,10,0,0,0,0|0,47,0,10,0,0,0,0"
+ },
+ {
+  "id": "2bs",
+  "name_tw": "宇宙篇 第2章 不死生物來襲",
+  "name_jp": "宇宙編 第2章 ゾンビ"
+ },
+ {
+  "id": 334,
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": 335,
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": 336,
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": 337,
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": 338,
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": 339,
+  "name_tw": "弱り目に祟り目EX",
+  "name_jp": "弱り目に祟り目EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33a",
+  "name_tw": "神判の日EX",
+  "name_jp": "神判の日EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33b",
+  "name_tw": "オーバーテクノロジーEX",
+  "name_jp": "オーバーテクノロジーEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33c",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33d",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33e",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33f",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33g",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33h",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33i",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33j",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33k",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33l",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33m",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33n",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33o",
+  "name_tw": "マタタビチャレンジEX",
+  "name_jp": "マタタビチャレンジEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33p",
+  "name_tw": "狂乱のもねこ降臨EX",
+  "name_jp": "狂乱のもねこ降臨EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33q",
+  "name_tw": "進化の古代マタタビEX",
+  "name_jp": "進化の古代マタタビEX",
+  "resetmode": -1
+ },
+ {
+  "id": "33r",
+  "name_tw": "協賛BitSummit記念！EX",
+  "name_jp": "協賛BitSummit記念！EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33s",
+  "name_tw": "協賛BitSummit記念！EX",
+  "name_jp": "協賛BitSummit記念！EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33t",
+  "name_tw": "進化の虹マタタビEX",
+  "name_jp": "進化の虹マタタビ",
+  "resetmode": -1
+ },
+ {
+  "id": "33u",
+  "name_tw": "太古の力EX",
+  "name_jp": "太古の力EX",
+  "materialdrop": "19,0,0,b,0,b,b,0,m",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "33v",
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33w",
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33x",
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33y",
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": "33z",
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 340,
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 341,
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 342,
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 343,
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 344,
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 345,
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 346,
+  "name_tw": "終末ノ連戦場EX",
+  "name_jp": "終末ノ連戦場EX",
+  "resetmode": -1
+ },
+ {
+  "id": 347,
+  "name_tw": "天使と般若EX",
+  "name_jp": "天使と般若EX",
+  "resetmode": -1
+ },
+ {
+  "id": 348,
+  "name_tw": "女帝と亡者EX",
+  "name_jp": "女帝と亡者EX",
+  "resetmode": -1
+ },
+ {
+  "id": 349,
+  "name_tw": "伯爵と乙女EX",
+  "name_jp": "伯爵と乙女EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34a",
+  "name_tw": "富士山EX",
+  "name_jp": "富士山EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34b",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34c",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34d",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34e",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34f",
+  "name_tw": "門的另一端是天堂？地獄？",
+  "name_jp": "時の運EX(天国)",
+  "resetmode": -1
+ },
+ {
+  "id": "34g",
+  "name_tw": "門的另一端是天堂？地獄？",
+  "name_jp": "時の運EX(地獄)",
+  "resetmode": -1
+ },
+ {
+  "id": "34h",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34i",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34j",
+  "name_tw": "修学旅行ステージEX",
+  "name_jp": "修学旅行ステージEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34k",
+  "name_tw": "亡者と河豚EX",
+  "name_jp": "亡者と河豚EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34l",
+  "name_tw": "女帝と乙女EX",
+  "name_jp": "女帝と乙女EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34m",
+  "name_tw": "伯爵と天使EX",
+  "name_jp": "伯爵と天使EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34n",
+  "name_tw": "狂乱のもねこ降臨EX",
+  "name_jp": "狂乱のもねこ降臨EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34o",
+  "name_tw": "#02「13日は何曜日」EX",
+  "name_jp": "#02「13日は何曜日」EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34p",
+  "name_tw": "お年玉襲来！EX",
+  "name_jp": "お年玉襲来！EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34q",
+  "name_tw": "お年玉襲来！EX(韓国版)",
+  "name_jp": "お年玉襲来！EX(韓国版)",
+  "resetmode": -1
+ },
+ {
+  "id": "34r",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34s",
+  "name_tw": "狩人の地図ⅣEX",
+  "name_jp": "狩人の地図ⅣEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34t",
+  "name_tw": "熱血！リレー大会EX1",
+  "name_jp": "熱血！リレー大会EX1",
+  "resetmode": -1
+ },
+ {
+  "id": "34u",
+  "name_tw": "熱血！リレー大会EX2",
+  "name_jp": "熱血！リレー大会EX2",
+  "resetmode": -1
+ },
+ {
+  "id": "34v",
+  "name_tw": "第2章 ツボーン洞窟　EXステージ",
+  "name_jp": "第2章 ツボーン洞窟　EXステージ",
+  "resetmode": -1
+ },
+ {
+  "id": "34w",
+  "name_tw": "進化素材ドロップEX",
+  "name_jp": "進化素材ドロップEX",
+  "resetmode": -1
+ },
+ {
+  "id": "34x",
+  "name_tw": "阿亀と赤子EX",
+  "name_jp": "阿亀と赤子EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34y",
+  "name_tw": "王子と死霊EX",
+  "name_jp": "王子と死霊EX",
+  "resetmode": -1
+ },
+ {
+  "id": "34z",
+  "name_tw": "蜜江と聖者EX",
+  "name_jp": "蜜江と聖者EX",
+  "resetmode": -1
+ },
+ {
+  "id": 350,
+  "name_tw": "イディ第3進化マップ",
+  "name_jp": "イディ第3進化マップ",
+  "resetmode": -1
+ },
+ {
+  "id": 351,
+  "name_tw": "古代賢者マップ",
+  "name_jp": "古代賢者マップ",
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": 352,
+  "name_jp": "天下統一への道 ～前編～EX",
+  "flags": 2,
+  "resetmode": -1,
+  "specialcond": "【軍資金制度】：戰鬥開始就可以獲得等同於軍資金的金錢，但相反地，隨著時間經過或打倒敵人時都無法增加金錢。初始軍資金是 4,500 元，破關（包含緊急關卡）獎勵可以增加軍資金（上限為 999,999 元）",
+  "invalid_combo": "無效聯組：初期工作狂貓等級、初期所持金額、工作狂貓的工作效率、工作狂貓錢包、會計能力"
+ },
+ {
+  "id": 353,
+  "name_jp": "天下統一への道 ～後編～EX",
+  "flags": 2,
+  "resetmode": -1,
+  "specialcond": "【軍資金制度】：戰鬥開始就可以獲得等同於軍資金的金錢，但相反地，隨著時間經過或打倒敵人時都無法增加金錢。初始軍資金是 4,500 元，破關（包含緊急關卡）獎勵可以增加軍資金（上限為 999,999 元）",
+  "invalid_combo": "無效聯組：初期工作狂貓等級、初期所持金額、工作狂貓的工作效率、工作狂貓錢包、會計能力"
+ },
+ {
+  "id": 354,
+  "name_tw": "2024回憶相簿　第2戰",
+  "name_jp": "2024年思い出アルバム ２戦目",
+  "resetmode": -1
+ },
+ {
+  "id": 355,
+  "name_tw": "2024回憶相簿　第3戰",
+  "name_jp": "2024年思い出アルバム ３戦目",
+  "resetmode": -1
+ },
+ {
+  "id": "3uw",
+  "name_tw": "初學者之館",
+  "name_jp": "初心の間",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "3ux",
+  "name_tw": "ニコニコの間",
+  "name_jp": "ニコニコの間",
+  "resetmode": -1
+ },
+ {
+  "id": "4mo",
+  "name_tw": "風雲貓咪塔",
+  "name_jp": "風雲にゃんこ塔",
+  "resetmode": 1
+ },
+ {
+  "id": "4mp",
+  "name_tw": "喵別塔【紅】",
+  "name_jp": "にゃんこ別塔【赤】",
+  "resetmode": 1
+ },
+ {
+  "id": "4mq",
+  "name_tw": "喵別塔【黑】",
+  "name_jp": "にゃんこ別塔【黒】",
+  "resetmode": 1
+ },
+ {
+  "id": "4mr",
+  "name_tw": "喵別塔【天】",
+  "name_jp": "にゃんこ別塔【天】",
+  "resetmode": 1
+ },
+ {
+  "id": "4ms",
+  "name_tw": "喵別塔【異】",
+  "name_jp": "にゃんこ別塔【蒼】",
+  "resetmode": 1
+ },
+ {
+  "id": "4mt",
+  "name_tw": "喵別塔【死】",
+  "name_jp": "にゃんこ別塔【屍】",
+  "resetmode": 1
+ },
+ {
+  "id": "4mu",
+  "name_tw": "異界貓咪塔",
+  "name_jp": "異界にゃんこ塔",
+  "mapcond": "1x",
+  "stagecond": "1x",
+  "resetmode": 1
+ },
+ {
+  "id": "4mv",
+  "name_tw": "喵別塔【無】",
+  "name_jp": "にゃんこ別塔【無】",
+  "resetmode": 1
+ },
+ {
+  "id": "4mw",
+  "name_tw": "喵別塔【惡】",
+  "name_jp": "にゃんこ別塔【悪】",
+  "mapcond": 3,
+  "stagecond": 3,
+  "resetmode": 1
+ },
+ {
+  "id": "4mx",
+  "name_tw": "喵別塔【古】",
+  "name_jp": "にゃんこ別塔【古】",
+  "mapcond": "k",
+  "stagecond": "k",
+  "resetmode": 1
+ },
+ {
+  "id": "4my",
+  "name_jp": "黄金にゃんこ塔",
+  "resetmode": 1
+ },
+ {
+  "id": "5eg",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5eh",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ei",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ej",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ek",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5el",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5em",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5en",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5eo",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ep",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5eq",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5er",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "5es",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "5et",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": -1
+ },
+ {
+  "id": "5eu",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ev",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ew",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ex",
+  "name_tw": "超・排行賽會場",
+  "name_jp": "超・ランキングの間",
+  "mapcond": 1,
+  "stagecond": 6,
+  "resetmode": -1
+ },
+ {
+  "id": "5ey",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5ez",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5f0",
+  "name_tw": "排行賽會場【外傳】",
+  "name_jp": "ランキングの間【外伝】",
+  "resetmode": -1,
+  "limit": "0,-1,9,0,0,0,0,0"
+ },
+ {
+  "id": "5f1",
+  "name_tw": "排行賽會場【外傳】",
+  "name_jp": "ランキングの間【外伝】",
+  "resetmode": -1,
+  "limit": "0,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "5f2",
+  "name_tw": "排行賽會場【外傳】",
+  "name_jp": "ランキングの間【外伝】",
+  "resetmode": -1,
+  "limit": "0,-1,0,0,0,0,2500,0"
+ },
+ {
+  "id": "5f3",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1,
+  "limit": "0,-1,0,9,0,0,0,0"
+ },
+ {
+  "id": "5f4",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1,
+  "limit": "0,-1,0,5,0,0,0,0"
+ },
+ {
+  "id": "5f5",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5f6",
+  "name_tw": "超排行賽會場",
+  "name_jp": "超ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5f7",
+  "name_tw": "排行賽會場",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5f8",
+  "name_tw": "超排行賽會場",
+  "name_jp": "超ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": "5f9",
+  "name_jp": "ランキングの間",
+  "resetmode": -1
+ },
+ {
+  "id": 668,
+  "name_tw": "挑戰賽",
+  "name_jp": "チャレンジバトル",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": -1
+ },
+ {
+  "id": "6y0",
+  "name_tw": "真・傳說的開始",
+  "name_jp": "真・伝説のはじまり",
+  "stars": 100150200100,
+  "materialdrop": "x,8,8,8,8,8,8,8,8",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y1",
+  "name_tw": "滿腹秘境",
+  "name_jp": "まんぷく秘境",
+  "stars": 100150200100,
+  "materialdrop": "x,a,0,a,5,0,e,5,o",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y2",
+  "name_tw": "冒險大森林",
+  "name_jp": "アドベン大森林",
+  "stars": 100150200100,
+  "materialdrop": "x,f,0,4,4,4,f,f,b",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y3",
+  "name_tw": "啪唰舊海道",
+  "name_jp": "じゃぶじゃぶ旧海道",
+  "stars": 100150200100,
+  "materialdrop": "x,9,0,3,3,f,6,c,k",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y4",
+  "name_tw": "旺旺灣",
+  "name_jp": "ワンワン湾",
+  "stars": 100150200100,
+  "materialdrop": "x,c,3,9,9,3,c,3,f",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y5",
+  "name_tw": "深淵窺視者",
+  "name_jp": "深淵を覗く者",
+  "stars": 100150200100,
+  "materialdrop": "x,a,0,a,3,7,3,7,r",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y6",
+  "name_tw": "異界城市",
+  "name_jp": "デスメガシティ",
+  "stars": 100150200100,
+  "materialdrop": "x,9,5,5,5,0,g,c,g",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y7",
+  "name_tw": "無法地帶的戒律",
+  "name_jp": "無法地帯のオキテ",
+  "stars": 100150200100,
+  "materialdrop": "x,8,4,d,0,4,4,p,8",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y8",
+  "name_tw": "唏哩嘩啦半島",
+  "name_jp": "パラリラ半島",
+  "stars": 100150200100,
+  "materialdrop": "x,9,0,6,6,h,9,c,9",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6y9",
+  "name_tw": "貓咪們的政變",
+  "name_jp": "キャットクーデター",
+  "stars": 100150200100,
+  "materialdrop": "x,7,7,7,7,3,a,a,h",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6ya",
+  "name_tw": "櫻桃島",
+  "name_jp": "桜んぼ島",
+  "stars": 100140180100,
+  "materialdrop": "x,i,a,8,3,5,d,3,8",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yb",
+  "name_tw": "打從魂魄的歸化",
+  "name_jp": "魂底からの帰化",
+  "stars": 100140180100,
+  "materialdrop": "x,6,a,6,6,3,g,6,d",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yc",
+  "name_tw": "絕滅海洋城",
+  "name_jp": "絶滅海洋タウン",
+  "stars": 100140180100,
+  "materialdrop": "x,7,9,7,0,4,i,d,9",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yd",
+  "name_tw": "流放渡假村",
+  "name_jp": "島流しリゾート",
+  "stars": 100140180100,
+  "materialdrop": "x,7,4,b,b,4,i,b,4",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6ye",
+  "name_tw": "困惑的魔道路",
+  "name_jp": "まどいの魔道路",
+  "stars": 100140180100,
+  "materialdrop": "x,2,i,4,6,6,i,8,4",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yf",
+  "name_tw": "天界酒吧坊",
+  "name_jp": "天界バル横丁",
+  "stars": 100140180100,
+  "materialdrop": "x,j,5,5,0,0,o,a,5",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yg",
+  "name_tw": "澡堂大戰鬥",
+  "name_jp": "バトル銭湯",
+  "stars": 100140180100,
+  "materialdrop": "x,5,3,a,0,d,a,f,a",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yh",
+  "name_tw": "道地三連山",
+  "name_jp": "はえぬき三連山",
+  "stars": 100140180100,
+  "materialdrop": "x,i,4,9,0,0,9,i,9",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yi",
+  "name_tw": "海洋官邸",
+  "name_jp": "マリン官邸",
+  "stars": 100140180100,
+  "materialdrop": "x,7,g,7,9,7,d,4,4",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yj",
+  "name_tw": "寄生校園的惡意",
+  "name_jp": "学園に巣くう悪意",
+  "stars": 100140180100,
+  "materialdrop": "x,7,d,a,0,3,h,0,h",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yk",
+  "name_tw": "粉粿金礦",
+  "name_jp": "ところてん金鉱",
+  "stars": 100140180100,
+  "materialdrop": "x,7,3,3,a,7,a,n,3",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yl",
+  "name_tw": "酩酊煉鐵廠",
+  "name_jp": "酩酊製鉄所",
+  "stars": 100130170100,
+  "materialdrop": "x,4,b,4,4,4,7,0,z",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6ym",
+  "name_tw": "被揭露的神殿之秘寶",
+  "name_jp": "暴かれし神殿の秘宝",
+  "stars": 100130170100,
+  "materialdrop": "x,4,d,4,4,4,h,0,l",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yn",
+  "name_tw": "帝國動亂",
+  "name_jp": "帝政エイジャナイカ",
+  "stars": 100130170100,
+  "materialdrop": "x,4,c,9,0,9,g,e,4",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yo",
+  "name_tw": "鋼鐵健身中心",
+  "name_jp": "鋼鉄スポーツジム",
+  "stars": 100130170100,
+  "materialdrop": "x,g,3,d,3,6,g,3,6",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yp",
+  "name_tw": "明星諸島",
+  "name_jp": "明星おきの島",
+  "stars": 100130170100,
+  "materialdrop": "x,6,6,j,d,6,3,3,a",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yq",
+  "name_tw": "沉睡森林的故事",
+  "name_jp": "眠れる森の何か",
+  "stars": 100130170100,
+  "materialdrop": "x,9,f,3,0,6,f,0,i",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yr",
+  "name_tw": "實驗島",
+  "name_jp": "ラボラ・トリ島",
+  "stars": 100130170100,
+  "materialdrop": "x,c,5,4,5,7,n,9,2",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6ys",
+  "name_tw": "被遺忘的墳場",
+  "name_jp": "忘らるる墓所",
+  "stars": 100130170100,
+  "materialdrop": "x,7,4,4,0,2,2,p,m",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yt",
+  "name_tw": "宣告開始的早晨",
+  "name_jp": "始まりを告げる朝",
+  "stars": 100130170100,
+  "materialdrop": "x,5,3,3,b,3,g,j,8",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yu",
+  "name_tw": "幸運快樂寺院",
+  "name_jp": "ハッピーラッキー寺院",
+  "stars": 100130170100,
+  "materialdrop": "x,2,9,0,2,b,t,b,2",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yv",
+  "name_tw": "怪館戲院",
+  "name_jp": "キネマ怪館",
+  "stars": 100130170100,
+  "materialdrop": "x,e,c,a,0,c,2,e,2",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yw",
+  "name_tw": "多樣性都市",
+  "name_jp": "ダイバー都市",
+  "stars": 100130170100,
+  "materialdrop": "x,7,0,7,p,c,0,f,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yx",
+  "name_tw": "東南亞・巡禮",
+  "name_jp": "ナシゴ・レン",
+  "stars": 100130170100,
+  "materialdrop": "x,4,i,9,0,4,4,4,m",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yy",
+  "name_tw": "DNA果樹園",
+  "name_jp": "DNA果樹園",
+  "stars": 100130170100,
+  "materialdrop": "x,9,0,6,3,f,f,i,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6yz",
+  "name_tw": "古代樹迷宮",
+  "name_jp": "古代樹の迷宮",
+  "stars": 100130170100,
+  "materialdrop": "x,h,5,e,a,2,5,a,5",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z0",
+  "name_tw": "阻擋者們的城堡",
+  "name_jp": "立ちはだかる者達の城",
+  "stars": 100130160100,
+  "materialdrop": "x,8,8,6,3,h,8,8,8",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z1",
+  "name_tw": "時空的彎曲",
+  "name_jp": "時空のゆがみ",
+  "stars": 100130150100,
+  "materialdrop": "x,d,d,g,2,7,0,g,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z2",
+  "name_tw": "大災難的開始",
+  "name_jp": "大厄災のはじまり",
+  "stars": 100130150100,
+  "stagecond": "1w",
+  "materialdrop": "x,8,8,8,8,8,8,8,8",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z3",
+  "name_tw": "魔海域大港",
+  "name_jp": "魔海域ビックラ港",
+  "stars": 100130150100,
+  "materialdrop": "x,e,b,4,0,7,7,b,e",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z4",
+  "name_tw": "霹靂沸騰園",
+  "name_jp": "デッドヒートランド",
+  "stars": 100130150100,
+  "materialdrop": "x,l,0,a,0,f,5,f,0",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z5",
+  "name_tw": "愛情死巷子",
+  "name_jp": "バラ色の袋小路",
+  "stars": 100130150100,
+  "materialdrop": "x,5,a,5,8,a,f,8,5",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z6",
+  "name_tw": "千年獸的靈峰",
+  "name_jp": "千年獣の霊峰",
+  "stars": 100130150100,
+  "materialdrop": "x,7,7,5,7,5,a,a,f",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z7",
+  "name_tw": "月光自由沙灘",
+  "name_jp": "ムーディストビーチ",
+  "stars": 100120140100,
+  "materialdrop": "x,4,l,6,2,2,f,a,6",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z8",
+  "name_tw": "追逐貓咪的故鄉",
+  "name_jp": "猫追いしふるさと",
+  "stars": 100120140100,
+  "materialdrop": "x,3,f,3,0,0,3,0,18",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6z9",
+  "name_tw": "海賊王商店街",
+  "name_jp": "海賊王商店街",
+  "stars": 100120140100,
+  "materialdrop": "x,5,b,3,0,3,8,8,t",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6za",
+  "name_tw": "虛虛實實的道路",
+  "name_jp": "真なる虚実を紡ぐ道",
+  "stars": 100120140100,
+  "materialdrop": "x,5,b,3,3,3,a,3,t",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6zb",
+  "name_tw": "人類貓咪化計劃",
+  "name_jp": "人類ネコ化計画",
+  "stars": 100110120100,
+  "materialdrop": "x,6,6,a,4,4,0,2,z",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "6zc",
+  "name_tw": "古代神木",
+  "name_jp": "古代神樹",
+  "stars": 100110120100,
+  "materialdrop": "x,0,0,0,0,0,0,0,1v",
+  "multiplier": "0.75,1,1.25,1.25",
+  "resetmode": -1,
+  "limit": "3,-1,6,0,0,0,0,0"
+ },
+ {
+  "id": "7ps",
+  "name_tw": "進化的黃色貓薄荷",
+  "name_jp": "進化の黄マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 2
+ },
+ {
+  "id": "7pt",
+  "name_tw": "進化的藍色貓薄荷",
+  "name_jp": "進化の青マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 2
+ },
+ {
+  "id": "7pu",
+  "name_tw": "進化的紅色貓薄荷",
+  "name_jp": "進化の赤マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 2
+ },
+ {
+  "id": "7pv",
+  "name_tw": "進化的紫色貓薄荷",
+  "name_jp": "進化の紫マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 2
+ },
+ {
+  "id": "7pw",
+  "name_tw": "進化的綠色貓薄荷",
+  "name_jp": "進化の緑マタタビ",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 2
+ },
+ {
+  "id": "7px",
+  "name_tw": "逆襲的臉君",
+  "name_jp": "逆襲のカオル君",
+  "mapcond": 1,
+  "stagecond": 4,
+  "resetmode": 2
+ },
+ {
+  "id": "7py",
+  "name_tw": "逆襲的河馬將",
+  "name_jp": "逆襲のカバちゃん",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "7pz",
+  "name_tw": "貓咪券★機會！",
+  "name_jp": "にゃんチケ★チャンス！",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "7q0",
+  "name_tw": "超終極游擊經驗值喵！",
+  "name_jp": "超極ゲリラ経験値にゃ！",
+  "mapcond": 6,
+  "resetmode": 2
+ },
+ {
+  "id": "7q1",
+  "name_tw": "終極游擊經驗值喵！",
+  "name_jp": "極ゲリラ経験値にゃ！",
+  "mapcond": 3,
+  "stagecond": 4,
+  "resetmode": 2
+ },
+ {
+  "id": "7q2",
+  "name_tw": "超級游擊經驗值喵！",
+  "name_jp": "超ゲリラ経験値にゃ！",
+  "mapcond": 1,
+  "stagecond": 3,
+  "resetmode": 2
+ },
+ {
+  "id": "7q3",
+  "name_tw": "游擊戰經驗值喵！",
+  "name_jp": "ゲリラ経験値にゃ！",
+  "mapcond": 1,
+  "stagecond": 1,
+  "resetmode": 2
+ },
+ {
+  "id": "7q4",
+  "name_tw": "斷罪天使海蝶降臨",
+  "name_jp": "断罪天使クオリネル降臨",
+  "mapcond": 16,
+  "stagecond": 16,
+  "resetmode": 2
+ },
+ {
+  "id": "7q5",
+  "name_tw": "地獄門",
+  "name_jp": "地獄門",
+  "mapcond": 17,
+  "stagecond": 17,
+  "resetmode": 2
+ },
+ {
+  "id": "7q6",
+  "name_tw": "女帝飛來",
+  "name_jp": "女帝飛来",
+  "mapcond": 18,
+  "stagecond": 18,
+  "resetmode": 2
+ },
+ {
+  "id": "7q7",
+  "name_tw": "亡者肥普降臨",
+  "name_jp": "亡者デブウ降臨",
+  "mapcond": 19,
+  "stagecond": 19,
+  "resetmode": 2
+ },
+ {
+  "id": "7q8",
+  "name_tw": "吉娃娃伯爵降臨",
+  "name_jp": "チワワン伯爵降臨",
+  "mapcond": "1a",
+  "stagecond": "1a",
+  "resetmode": 2,
+  "limit": "0,-1,49,0,0,0,0,0"
+ },
+ {
+  "id": "7q9",
+  "name_tw": "春宵苦短，少女做夢吧！",
+  "name_jp": "夜は短し夢みよ乙女",
+  "mapcond": "1b",
+  "stagecond": "1b",
+  "resetmode": 2
+ },
+ {
+  "id": "7qa",
+  "name_tw": "紅色突變",
+  "name_jp": "紅のカタストロフ",
+  "mapcond": "1c",
+  "stagecond": "1c",
+  "resetmode": 2
+ },
+ {
+  "id": "7qb",
+  "name_tw": "黑暗天堂",
+  "name_jp": "ダークネスヘブン",
+  "mapcond": "1d",
+  "stagecond": "1d",
+  "resetmode": 2
+ },
+ {
+  "id": "7qc",
+  "name_tw": "國士無雙",
+  "name_jp": "国士無双",
+  "mapcond": "1e",
+  "stagecond": "1e",
+  "resetmode": 2
+ },
+ {
+  "id": "7qd",
+  "name_tw": "天譴",
+  "name_jp": "天罰",
+  "mapcond": "1f",
+  "stagecond": "1f",
+  "resetmode": 2
+ },
+ {
+  "id": "7qe",
+  "name_tw": "鐵子的部屋",
+  "name_jp": "鉄子の部屋",
+  "mapcond": "1g",
+  "stagecond": "1g",
+  "resetmode": 2
+ },
+ {
+  "id": "7qf",
+  "name_tw": "絕望異次元",
+  "name_jp": "絶望異次元",
+  "mapcond": "1h",
+  "stagecond": "1h",
+  "resetmode": 2
+ },
+ {
+  "id": "7qg",
+  "name_tw": "狂亂貓降臨",
+  "name_jp": "狂乱のネコ降臨",
+  "mapcond": "1i",
+  "stagecond": "1i",
+  "resetmode": 2
+ },
+ {
+  "id": "7qh",
+  "name_tw": "狂亂坦克貓降臨",
+  "name_jp": "狂乱のタンク降臨",
+  "mapcond": "1j",
+  "stagecond": "1j",
+  "resetmode": 2
+ },
+ {
+  "id": "7qi",
+  "name_tw": "狂亂戰鬥貓降臨",
+  "name_jp": "狂乱のバトル降臨",
+  "mapcond": "1k",
+  "stagecond": "1k",
+  "resetmode": 2
+ },
+ {
+  "id": "7qj",
+  "name_tw": "狂亂噁心貓降臨",
+  "name_jp": "狂乱のキモネコ降臨",
+  "mapcond": "1l",
+  "stagecond": "1l",
+  "resetmode": 2
+ },
+ {
+  "id": "7qk",
+  "name_tw": "狂亂牛貓降臨",
+  "name_jp": "狂乱のウシ降臨",
+  "mapcond": "1m",
+  "stagecond": "1m",
+  "resetmode": 2
+ },
+ {
+  "id": "7ql",
+  "name_tw": "狂亂鳥貓降臨",
+  "name_jp": "狂乱のトリ降臨",
+  "mapcond": "1n",
+  "stagecond": "1n",
+  "resetmode": 2
+ },
+ {
+  "id": "7qm",
+  "name_tw": "狂亂魚貓降臨",
+  "name_jp": "狂乱のフィッシュ降臨",
+  "mapcond": "1o",
+  "stagecond": "1o",
+  "resetmode": 2
+ },
+ {
+  "id": "7qn",
+  "name_tw": "狂亂蜥蜴貓降臨",
+  "name_jp": "狂乱のトカゲ降臨",
+  "mapcond": "1p",
+  "stagecond": "1p",
+  "resetmode": 2
+ },
+ {
+  "id": "7qo",
+  "name_tw": "狂亂巨神貓降臨",
+  "name_jp": "狂乱の巨神降臨",
+  "mapcond": "1q",
+  "stagecond": "1q",
+  "resetmode": 2
+ },
+ {
+  "id": "7qp",
+  "name_tw": "藍色衝擊",
+  "name_jp": "ブルーインパクト",
+  "mapcond": 22,
+  "stagecond": 22,
+  "resetmode": 2
+ },
+ {
+  "id": "7qq",
+  "name_tw": "狂亂萌貓降臨",
+  "name_jp": "狂乱のもねこ降臨",
+  "mapcond": 23,
+  "stagecond": 23,
+  "resetmode": 2
+ },
+ {
+  "id": "7qr",
+  "name_tw": "緊急暴風警報",
+  "name_jp": "緊急爆風警報",
+  "mapcond": 24,
+  "stagecond": 24,
+  "resetmode": 2
+ },
+ {
+  "id": "7qs",
+  "name_tw": "滾死樂團",
+  "name_jp": "ローリングデッド",
+  "mapcond": 25,
+  "stagecond": 25,
+  "resetmode": 2
+ },
+ {
+  "id": "7qt",
+  "name_tw": "零號颱風",
+  "name_jp": "台風零号",
+  "mapcond": 26,
+  "stagecond": 26,
+  "resetmode": 2
+ },
+ {
+  "id": "7qu",
+  "name_tw": "大魔王",
+  "name_jp": "メガサターン",
+  "mapcond": 27,
+  "stagecond": 27,
+  "resetmode": 2
+ },
+ {
+  "id": "7qv",
+  "name_tw": "暗沼幽靈",
+  "name_jp": "ほの暗い沼の底から",
+  "mapcond": 28,
+  "stagecond": 28,
+  "resetmode": 2
+ },
+ {
+  "id": "7qw",
+  "name_tw": "大狂亂貓咪降臨",
+  "name_jp": "大狂乱のネコ降臨",
+  "mapcond": 29,
+  "stagecond": 29,
+  "resetmode": 2
+ },
+ {
+  "id": "7qx",
+  "name_tw": "大狂亂坦克貓降臨",
+  "name_jp": "大狂乱のタンク降臨",
+  "mapcond": "2a",
+  "stagecond": "2a",
+  "resetmode": 2
+ },
+ {
+  "id": "7qy",
+  "name_tw": "大狂亂戰鬥貓降臨",
+  "name_jp": "大狂乱のバトル降臨",
+  "mapcond": "2b",
+  "stagecond": "2b",
+  "resetmode": 2
+ },
+ {
+  "id": "7qz",
+  "name_tw": "大狂亂噁心貓降臨",
+  "name_jp": "大狂乱のキモネコ降臨",
+  "mapcond": "2c",
+  "stagecond": "2c",
+  "resetmode": 2
+ },
+ {
+  "id": "7r0",
+  "name_tw": "大狂亂牛貓降臨",
+  "name_jp": "大狂乱のウシ降臨",
+  "mapcond": "2d",
+  "stagecond": "2d",
+  "resetmode": 2
+ },
+ {
+  "id": "7r1",
+  "name_tw": "大狂亂鳥貓降臨",
+  "name_jp": "大狂乱のトリ降臨",
+  "mapcond": "2e",
+  "stagecond": "2e",
+  "resetmode": 2
+ },
+ {
+  "id": "7r2",
+  "name_tw": "大狂亂魚貓降臨",
+  "name_jp": "大狂乱のフィッシュ降臨",
+  "mapcond": "2f",
+  "stagecond": "2f",
+  "resetmode": 2
+ },
+ {
+  "id": "7r3",
+  "name_tw": "大狂亂蜥蜴貓降臨",
+  "name_jp": "大狂乱のトカゲ降臨",
+  "mapcond": "2g",
+  "stagecond": "2g",
+  "resetmode": 2
+ },
+ {
+  "id": "7r4",
+  "name_tw": "大狂亂巨神貓降臨",
+  "name_jp": "大狂乱の巨神降臨",
+  "mapcond": "2h",
+  "stagecond": "2h",
+  "resetmode": 2
+ },
+ {
+  "id": "7r5",
+  "name_tw": "絕望新次元",
+  "name_jp": "絶望新次元",
+  "mapcond": "2i",
+  "stagecond": "2i",
+  "resetmode": 2
+ },
+ {
+  "id": "7r6",
+  "name_tw": "超終極惡游擊經驗值喵！",
+  "name_jp": "超極悪ゲリラ経験値にゃ！",
+  "mapcond": 2650,
+  "stagecond": 2650,
+  "resetmode": 2
+ },
+ {
+  "id": "7r7",
+  "name_tw": "進化的惡貓薄荷",
+  "name_jp": "進化の悪マタタビ",
+  "mapcond": 2650,
+  "stagecond": 2650,
+  "flags": 2,
+  "resetmode": 2
+ },
+ {
+  "id": "8hk",
+  "name_tw": "巨大生物強襲 !",
+  "name_jp": "ヒュージゴマ強襲 !(旧)",
+  "mapcond": 1,
+  "stagecond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hl",
+  "name_tw": "巨大生物強襲 !!",
+  "name_jp": "ヒュージゴマ強襲 !!(旧)",
+  "mapcond": 1,
+  "stagecond": 4,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hm",
+  "name_tw": "巨大生物強襲 !!!",
+  "name_jp": "ヒュージゴマ強襲 !!!(旧)",
+  "mapcond": 4,
+  "stagecond": 7,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hn",
+  "name_tw": "巨象黑藏強襲 !",
+  "name_jp": "ジャイアント黒蔵強襲 !(旧)",
+  "mapcond": 1,
+  "stagecond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8ho",
+  "name_tw": "巨象黑藏強襲 !!",
+  "name_jp": "ジャイアント黒蔵強襲 !!(旧)",
+  "mapcond": 1,
+  "stagecond": 4,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hp",
+  "name_tw": "巨象黑藏強襲 !!!",
+  "name_jp": "ジャイアント黒蔵強襲 !!!(旧)",
+  "mapcond": 4,
+  "stagecond": 7,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hq",
+  "name_tw": "巨蛾蛾蛾強襲 !",
+  "name_jp": "ギガガガ強襲 !(旧)",
+  "mapcond": 1,
+  "stagecond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hr",
+  "name_tw": "巨蛾蛾蛾強襲 !!",
+  "name_jp": "ギガガガ強襲 !!(旧)",
+  "mapcond": 1,
+  "stagecond": 4,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hs",
+  "name_tw": "巨蛾蛾蛾強襲 !!!",
+  "name_jp": "ギガガガ強襲 !!!(旧)",
+  "mapcond": 4,
+  "stagecond": 7,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8ht",
+  "name_tw": "巨大河馬星人強襲 !",
+  "name_jp": "デッカーバチャン強襲 !(旧)",
+  "mapcond": 1,
+  "stagecond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hu",
+  "name_tw": "巨大河馬星人強襲 !!",
+  "name_jp": "デッカーバチャン強襲 !!(旧)",
+  "mapcond": 1,
+  "stagecond": 4,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hv",
+  "name_tw": "巨大河馬星人強襲 !!!",
+  "name_jp": "デッカーバチャン強襲 !!!(旧)",
+  "mapcond": 4,
+  "stagecond": 7,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hw",
+  "name_tw": "今年也請多指教強襲！",
+  "name_jp": "ことよろにゃ強襲！(ΦωΦ)",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hx",
+  "name_tw": "情人節強襲！",
+  "name_jp": "バレンタイン強襲！",
+  "mapcond": 1,
+  "stagecond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hy",
+  "name_tw": "復活節強襲！",
+  "name_jp": "イースター強襲！",
+  "mapcond": 1,
+  "stagecond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8hz",
+  "name_tw": "6月強襲！",
+  "name_jp": "6月強襲！",
+  "mapcond": 1,
+  "stagecond": "25ye",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i0",
+  "name_tw": "續・6月強襲！",
+  "name_jp": "続・6月強襲！",
+  "mapcond": "25ye",
+  "stagecond": 2625,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i1",
+  "name_tw": "7月強襲！",
+  "name_jp": "7月強襲！",
+  "mapcond": 1,
+  "stagecond": "25yf",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i2",
+  "name_tw": "續・7月強襲！",
+  "name_jp": "続・7月強襲！",
+  "mapcond": "25yf",
+  "stagecond": 2626,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i3",
+  "name_tw": "貓咪的暑假",
+  "name_jp": "ねこのなつやすみ",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8i4",
+  "name_tw": "巨大生物強襲",
+  "name_jp": "ヒュージゴマ強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8i5",
+  "name_tw": "8月強襲！",
+  "name_jp": "8月強襲！",
+  "mapcond": 1,
+  "stagecond": "25yg",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i6",
+  "name_tw": "續・8月強襲！",
+  "name_jp": "続・8月強襲！",
+  "mapcond": "25yg",
+  "stagecond": 2627,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i7",
+  "name_tw": "9月強襲！",
+  "name_jp": "9月強襲！",
+  "mapcond": 1,
+  "stagecond": "25yk",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i8",
+  "name_tw": "續・9月強襲！",
+  "name_jp": "続・9月強襲！",
+  "mapcond": "25yk",
+  "stagecond": 2628,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8i9",
+  "name_tw": "10月強襲！",
+  "name_jp": "10月強襲！",
+  "mapcond": 1,
+  "stagecond": "25ym",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8ia",
+  "name_tw": "續・10月強襲！",
+  "name_jp": "続・10月強襲！",
+  "mapcond": "25ym",
+  "stagecond": "262a",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8ib",
+  "name_tw": "巨象黑藏強襲",
+  "name_jp": "ジャイアント黒蔵強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8ic",
+  "name_tw": "11月強襲！",
+  "name_jp": "11月強襲！",
+  "mapcond": 1,
+  "stagecond": "25xt",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8id",
+  "name_tw": "續・11月強襲！",
+  "name_jp": "続・11月強襲！",
+  "mapcond": "25xt",
+  "stagecond": "262b",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8ie",
+  "name_tw": "12月強襲！",
+  "name_jp": "12月強襲！",
+  "mapcond": 1,
+  "stagecond": "25xu",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8if",
+  "name_tw": "續・12月強襲！",
+  "name_jp": "続・12月強襲！",
+  "mapcond": "25xu",
+  "stagecond": "262f",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8ig",
+  "name_tw": "1月強襲！",
+  "name_jp": "1月強襲！",
+  "mapcond": 1,
+  "stagecond": "25xv",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8ih",
+  "name_tw": "續・1月強襲！",
+  "name_jp": "続・1月強襲！",
+  "mapcond": "25xv",
+  "stagecond": "262o",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8ii",
+  "name_tw": "巨蛾蛾蛾強襲",
+  "name_jp": "ギガガガ強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8ij",
+  "name_tw": "巨大河馬星人強襲",
+  "name_jp": "デッカーバチャン強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8ik",
+  "name_tw": "今年也請多指教強襲！",
+  "name_jp": "ことよろにゃ強襲！(ΦωΦ)",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8il",
+  "name_tw": "特大號大天使強襲",
+  "name_jp": "大天使エクスエル強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8im",
+  "name_tw": "巨大企鵝大哥Z強襲",
+  "name_jp": "ビッグペンZ強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8in",
+  "name_tw": "2月強襲！",
+  "name_jp": "2月強襲！",
+  "mapcond": 1,
+  "stagecond": "25xw",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8io",
+  "name_tw": "續・2月強襲！",
+  "name_jp": "続・2月強襲！",
+  "mapcond": "25xw",
+  "stagecond": "262q",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8ip",
+  "name_tw": "貓咪歡慶佳節～過年篇～",
+  "name_jp": "お祭りにゃんこ ～春節編～",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8iq",
+  "name_tw": "貓咪們的逆襲",
+  "name_jp": "ネコたちの逆襲(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "8ir",
+  "name_tw": "3月強襲！",
+  "name_jp": "3月強襲！",
+  "mapcond": 1,
+  "stagecond": "25xx",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8is",
+  "name_tw": "續・3月強襲！",
+  "name_jp": "続・3月強襲！",
+  "mapcond": "25xx",
+  "stagecond": "262w",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8it",
+  "name_tw": "強襲！人情巧克力軍團",
+  "name_jp": "強襲！義理チョコ軍団",
+  "mapcond": 1,
+  "stagecond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8iu",
+  "name_tw": "4月強襲！",
+  "name_jp": "4月強襲！",
+  "mapcond": 1,
+  "stagecond": "25ya",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8iv",
+  "name_tw": "續・4月強襲！",
+  "name_jp": "続・4月強襲！",
+  "mapcond": "25ya",
+  "stagecond": "262y",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8iw",
+  "name_tw": "Season1～學園生活～",
+  "name_jp": "Season1 ～学園生活～",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8ix",
+  "name_tw": "月間活動全明星 眾星雲集大感謝祭！",
+  "name_jp": "月イベントオールスターズ スター大集合大感謝祭！",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8iy",
+  "name_tw": "5月強襲！",
+  "name_jp": "5月強襲！",
+  "mapcond": 1,
+  "stagecond": "25yd",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8iz",
+  "name_tw": "續・5月強襲！",
+  "name_jp": "続・5月強襲！",
+  "mapcond": "25yd",
+  "stagecond": 2631,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1,
+  "limit": "0,-1,0,10,0,0,0,0"
+ },
+ {
+  "id": "8j0",
+  "name_tw": "#01「惡魔婚宴會場」",
+  "name_jp": "#01「悪霊の式場」",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8j1",
+  "name_tw": "決鬥大挑戰",
+  "name_jp": "決闘チャレンジ",
+  "resetmode": 1,
+  "limit": "0,-1,0,1,0,0,0,0"
+ },
+ {
+  "id": "8j2",
+  "name_tw": "雙人鬪技大挑戰",
+  "name_jp": "タッグ闘技チャレンジ",
+  "resetmode": 1,
+  "limit": "0,-1,0,2,0,0,0,0"
+ },
+ {
+  "id": "8j3",
+  "name_tw": "秘寶沉眠之孤島",
+  "name_jp": "秘宝の眠る孤島",
+  "mapcond": 6,
+  "stagecond": 6,
+  "resetmode": -1
+ },
+ {
+  "id": "8j4",
+  "name_tw": "#03 萬聖節百鬼夜行",
+  "name_jp": "#03 ハロウィン百鬼夜行",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8j5",
+  "name_tw": "第1部 10年の軌跡パレード",
+  "name_jp": "第1部 10年の軌跡パレード",
+  "waitfortimer": "30分鐘",
+  "resetmode": -1
+ },
+ {
+  "id": "8j6",
+  "name_tw": "第二晚 平安夜裡送禮物",
+  "name_jp": "第二夜 聖夜のプレゼント配達",
+  "mapcond": 1,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8j7",
+  "name_tw": "今年也請多指教強襲！",
+  "name_jp": "ことよろにゃ強襲！(ΦωΦ)",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8j8",
+  "name_tw": "坦克貓們的逆襲",
+  "name_jp": "タンクネコたちの逆襲(旧)",
+  "resetmode": -1
+ },
+ {
+  "id": "8j9",
+  "name_tw": "巨大三惡魔強襲",
+  "name_jp": "オーメンズ強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8ja",
+  "name_tw": "第1章 ネコたちの冒険",
+  "name_jp": "第1章 ネコたちの冒険",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8jb",
+  "name_tw": "今年也請多指教強襲！",
+  "name_jp": "ことよろにゃ強襲！(ΦωΦ)",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8jc",
+  "name_tw": "貓咪們的大逆襲",
+  "name_jp": "ネコたちの大逆襲",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8jd",
+  "name_tw": "大型陶器埴輪巨犬強襲",
+  "name_jp": "大型土器ダイハニワン強襲",
+  "mapcond": 3,
+  "stagecond": 6,
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8je",
+  "name_tw": "わんわん王国の異変",
+  "name_jp": "わんわん王国の異変",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8jf",
+  "name_tw": "貓咪的暑假 野外求生",
+  "name_jp": "ねこのなつやすみ サバイバル",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8jg",
+  "name_tw": "#01 鬼魂大騷動",
+  "name_jp": "#01 ゴーストパニック",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "8jh",
+  "name_tw": "今年也請多指教強襲！",
+  "name_jp": "ことよろにゃ強襲！(ΦωΦ)",
+  "waitfortimer": "30分鐘",
+  "resetmode": 1
+ },
+ {
+  "id": "99c",
+  "name_tw": "道具古戰場",
+  "name_jp": "アテイム古戦場",
+  "resetmode": -1
+ },
+ {
+  "id": "99d",
+  "name_tw": "維他命溪谷",
+  "name_jp": "ビタミン渓谷",
+  "resetmode": -1
+ },
+ {
+  "id": "99e",
+  "name_tw": "貓咪券★獵人",
+  "name_jp": "にゃんチケ★ハンター",
+  "resetmode": -1
+ },
+ {
+  "id": "99f",
+  "name_tw": "精神與時間的小屋",
+  "name_jp": "精神と時間の小屋",
+  "resetmode": -1
+ },
+ {
+  "id": "99g",
+  "name_tw": "精神與時間的洞窟",
+  "name_jp": "精神と時間の洞窟",
+  "resetmode": -1
+ },
+ {
+  "id": "99h",
+  "name_tw": "精神與時間的迷宮",
+  "name_jp": "精神と時間の迷宮",
+  "resetmode": -1
+ },
+ {
+  "id": "99i",
+  "name_tw": "貓眼洞窟",
+  "name_jp": "ねこの目洞窟",
+  "resetmode": -1
+ },
+ {
+  "id": "99j",
+  "name_tw": "維他命火山",
+  "name_jp": "ビタミン火山",
+  "resetmode": -1
+ },
+ {
+  "id": "99k",
+  "name_tw": "貓咪券★獵人G",
+  "name_jp": "にゃんチケ★ハンターG",
+  "resetmode": -1
+ },
+ {
+  "id": "99l",
+  "name_tw": "紅色本能的起源",
+  "name_jp": "紅き本能の起源",
+  "resetmode": -1
+ },
+ {
+  "id": "99m",
+  "name_tw": "紅色本能的頂點",
+  "name_jp": "紅き本能の頂",
+  "resetmode": -1
+ },
+ {
+  "id": "99n",
+  "name_tw": "紅色本能的秘境",
+  "name_jp": "紅き本能の秘境",
+  "resetmode": -1
+ },
+ {
+  "id": "99o",
+  "name_tw": "飄浮本能的起源",
+  "name_jp": "浮ける本能の起源",
+  "resetmode": -1
+ },
+ {
+  "id": "99p",
+  "name_tw": "飄浮本能的頂點",
+  "name_jp": "浮ける本能の頂",
+  "resetmode": -1
+ },
+ {
+  "id": "99q",
+  "name_tw": "飄浮本能的秘境",
+  "name_jp": "浮ける本能の秘境",
+  "resetmode": -1
+ },
+ {
+  "id": "99r",
+  "name_tw": "黑色本能的起源",
+  "name_jp": "黒き本能の起源",
+  "resetmode": -1
+ },
+ {
+  "id": "99s",
+  "name_tw": "黑色本能的頂點",
+  "name_jp": "黒き本能の頂",
+  "resetmode": -1
+ },
+ {
+  "id": "99t",
+  "name_tw": "黑色本能的秘境",
+  "name_jp": "黒き本能の秘境",
+  "resetmode": -1
+ },
+ {
+  "id": "99u",
+  "name_tw": "神聖本能的起源",
+  "name_jp": "聖なる本能の起源",
+  "resetmode": -1
+ },
+ {
+  "id": "99v",
+  "name_tw": "神聖本能的頂點",
+  "name_jp": "聖なる本能の頂",
+  "resetmode": -1
+ },
+ {
+  "id": "99w",
+  "name_tw": "神聖本能的秘境",
+  "name_jp": "聖なる本能の秘境",
+  "resetmode": -1
+ },
+ {
+  "id": "99x",
+  "name_tw": "蒼藍本能的起源",
+  "name_jp": "蒼き本能の起源",
+  "resetmode": -1
+ },
+ {
+  "id": "99y",
+  "name_tw": "蒼藍本能的頂點",
+  "name_jp": "蒼き本能の頂",
+  "resetmode": -1
+ }
+]
+}
